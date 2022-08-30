@@ -68,7 +68,6 @@
   - [01.04.06 练习题目（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.04/01.04.06%20Exercises.md)
   - [01.04.07 习题解析（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.04/01.04.07%20Exercises-Key.md)
   - 01.04.08 更多数组二分查找题目
-
 - 01.05 数组双指针、滑动窗口（第 12 ~ 14 天）
   - [01.05.01 双指针基础知识（第 12 ~ 13 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/01.05.01%20Array-Two-Pointers.md)
   - [01.05.02 练习题目（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/01.05.02%20Exercises.md)
@@ -85,6 +84,20 @@
 ### 02. 基础数据结构篇（上）：链表、堆栈、队列（共 15 天）
 
 - 02.01 链表（第 01 ~ 04 天）
+  - [02.01.01 链表基础知识（第 01 ~ 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.01%20Linked-List-Basic.md)
+  - [02.01.02 练习题目（第 01 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.02%20Exercises.md)
+  - [02.01.03 习题解析（第 01 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.03%20Exercises-Key.md)
+  - [02.01.04 练习题目（第 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.04%20Exercises.md)
+  - [02.01.05 习题解析（第 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.05%20Exercises-Key.md)
+  - 02.01.06 更多链表基础题目
+  - [02.01.07 链表排序（第 03 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.07%20Linked-List-Sort.md)
+  - [02.01.08 练习题目（第 03 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.08%20Exercises.md)
+  - [02.01.09 习题解析（第 03 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.09%20Exercises-Key.md)
+  - 02.01.10 更多链表排序题目
+  - [02.01.11 链表双指针（第 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.11%20Linked-List-Two-Pointers.md)
+  - [02.01.12 练习题目（第 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.12%20Exercises.md)
+  - [02.01.13 习题解析（第 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.13%20Exercises-Key.md)
+  - 02.01.14 更多链表双指针题目
 - 02.02 堆栈与单调栈（第 05 ~ 07 天）
 - 02.03 深度优先搜索（第 08 ~ 10 天）
 - 02.04 队列与优先队列（第 11 ~ 12 天）
