@@ -119,6 +119,15 @@
   - [02.03.07 习题解析（第 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/02.03.07%20Exercises-Key.md)
   - 02.03.08 更多深度优先搜索题目
 - 02.04 队列与优先队列（第 11 ~ 12 天）
+  - [02.04.01 队列基础知识（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.01%20Queue-Basic.md)
+  - [02.04.02 练习题目（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.02%20Exercises.md)
+  - [02.04.03 习题解析（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.03%20Exercises-Key.md)
+  - 02.04.04 更多队列基础题目
+  - [02.04.05 优先队列（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.05%20Priority-Queue.md)
+  - [02.04.06 练习题目（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.06%20Exercises.md)
+  - [02.04.07 习题解析（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.07%20Exercises-Key.md)
+  - 02.04.08 更多优先队列题目
+
 - 02.05 广度优先搜索（第 13 ~ 14 天）
 - 02.06 拓扑排序（第 15 天）
 
@@ -172,4 +181,5 @@
 <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
 </div>
 ## LICENSE
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名 - 非商业性使用 - 相同方式共享 4.0 国际许可协议</a> 进行许可。
