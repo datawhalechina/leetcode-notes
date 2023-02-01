@@ -17,7 +17,7 @@
 - [01.02.03 习题解析（第 03 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.02/01.02.03%20Exercises-Key.md)
 - [01.02.04 练习题目（第 04天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.02/01.02.04%20Exercises.md)
 - [01.02.05 习题解析（第 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.02/01.02.05%20Exercises-Key.md)
-- 01.02.06 更多数组基础知识题目
+- [01.02.06 数组基础知识题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.02/01.02.06%20Array-Basic-List.md)
 
 ## 01.03 数组排序（第 05 ~ 08 天）
 
@@ -39,7 +39,7 @@
 - [01.03.16 基数排序（第 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.03/01.03.16%20Array-Radix-Sort.md)
 - [01.03.17 练习题目（第 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.03/01.03.17%20Exercises.md)
 - [01.03.18 习题解析（第 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.03/01.03.18%20Exercises-Key.md)
-- 01.03.19 更多数组排序题目
+- [01.03.19 数组排序题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.03/01.03.19%20Array-Sort-List.md)
 
 ## 01.04 数组二分查找（第 09 ~ 11 天）
 
@@ -50,7 +50,7 @@
 - [01.04.05 习题解析（第 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.04/01.04.05%20Exercises-Key.md)
 - [01.04.06 练习题目（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.04/01.04.06%20Exercises.md)
 - [01.04.07 习题解析（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.04/01.04.07%20Exercises-Key.md)
-- 01.04.08 更多数组二分查找题目
+- [01.04.08 数组二分查找题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.04/01.04.08%20Array-Binary-Search-List.md)
 
 ## 01.05 数组双指针、滑动窗口（第 12 ~ 14 天）
 
@@ -59,8 +59,8 @@
 - [01.05.03 习题解析（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/01.05.03%20Exercises-Key.md)
 - [01.05.04 练习题目（第 13 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/01.05.04%20Exercises.md)
 - [01.05.05 习题解析（第 13 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/01.05.05%20Exercises-Key.md)
-- 01.05.06 更多数组双指针题目
+- [01.05.06 数组双指针题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/01.05.06%20Array-Two-Pointers-List.md)
 - [01.05.07 滑动窗口基础知识（第 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/01.05.07%20Array-Sliding-Window.md)
 - [01.05.08 练习题目（第 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/01.05.08%20Exercises.md)
 - [01.05.09 习题解析（第 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/01.05.09%20Exercises-Key.md)
-- 01.05.10 更多滑动窗口题目
+- [01.05.10 滑动窗口题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/01.05.10%20Array-Sliding-Window-List.md)
