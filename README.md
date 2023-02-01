@@ -64,14 +64,14 @@
 - 05.04 树形 DP 和 区间 DP（第 10 ~ 11 天）
 - 05.05 其他 DP 问题（第 12 ~ 14 天）
 
-### 06. [面试篇（上）（共 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/index.md)
+### [06. 面试篇（上）（共 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/index.md)
 
 - [06.01 第 001 ~ 012 题（第 01 ~ 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/06.01/index.md)
 - [06.02 第 013 ~ 025 题（第 05 ~ 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/06.02/index.md)
 - [06.03 第 026 ~ 037 题（第 09 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/06.03/index.md)
 - [06.04 第 038 ~ 050 题（第 13 ~ 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/06.04/index.md)
 
-### 07. [面试篇（下）（共 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/index.md)
+### [07. 面试篇（下）（共 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/index.md)
 
 - [07.01 第 051 ~ 062 题（第 01 ~ 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/07.01/index.md)
 - [07.02 第 063 ~ 074 题（ 第 05 ~ 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/07.02/index.md)
