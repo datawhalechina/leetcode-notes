@@ -17,23 +17,23 @@
 - [04.02.04 练习题目（第 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.02/04.02.04%20Exercises.md)
 - [04.02.05 习题解析（第 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.02/04.02.05%20Exercises-Key.md)
 - [04.02.06 递归算法题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.02/04.02.06%20Recursive-Algorithm-List.md)
+- [04.02.07 分治算法（第 05 ~ 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.02/04.02.07%20Divide-And-Conquer-Algorithm.md)
+- [04.02.08 练习题目（第 05 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.02/04.02.08%20Exercises.md)
+- [04.02.09 习题解析（第 05 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.02/04.02.09%20Exercises-Key.md)
+- [04.02.10 练习题目（第 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.02/04.02.10%20Exercises.md)
+- [04.02.11 习题解析（第 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.02/04.02.11%20Exercises-Key.md)
+- [04.02.12 分治算法题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.02/04.02.12%20Divide-And-Conquer-Algorithm-List.md)
 
 ## 04.03 回溯算法（第 07 ~ 09 天）
 
-- [04.03.01 分治算法（第 05 ~ 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.01%20Divide-And-Conquer-Algorithm.md)
-- [04.03.03 练习题目（第 05 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.02%20Exercises.md)
-- [04.03.03 习题解析（第 05 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.03%20Exercises-Key.md)
-- [04.03.04 练习题目（第 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.04%20Exercises.md)
-- [04.03.05 习题解析（第 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.05%20Exercises-Key.md)
-- [04.03.06 分治算法题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.06%20Divide-And-Conquer-Algorithm-List.md)
-- [04.03.07 回溯算法（第 07 ~ 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.07%20Backtracking-Algorithm.md)
-- [04.03.08 练习题目（第 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.08%20Exercises.md)
-- [04.03.09 习题解析（第 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.09%20Exercises-Key.md)
-- [04.03.10 练习题目（第 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.10%20Exercises.md)
-- [04.03.11 习题解析（第 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.11%20Exercises-Key.md)
-- [04.03.12 练习题目（第 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.12%20Exercises.md)
-- [04.03.13 习题解析（第 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.13%20Exercises-Key.md)
-- [04.03.14 回溯算法题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.14%20Backtracking-Algorithm-List.md)
+- [04.03.01 回溯算法（第 07 ~ 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.01%20Backtracking-Algorithm.md)
+- [04.03.02 练习题目（第 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.02%20Exercises.md)
+- [04.03.03 习题解析（第 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.03%20Exercises-Key.md)
+- [04.03.04 练习题目（第 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.04%20Exercises.md)
+- [04.03.05 习题解析（第 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.05%20Exercises-Key.md)
+- [04.03.06 练习题目（第 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.06%20Exercises.md)
+- [04.03.07 习题解析（第 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.07%20Exercises-Key.md)
+- [04.03.08 回溯算法题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/04.03.08%20Backtracking-Algorithm-List.md)
 
 ## 04.04 贪心算法（第 10 ~ 12 天）
 
