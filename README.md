@@ -50,7 +50,7 @@
 
 ### [04. 基础算法篇：枚举、递归、分治、回溯、贪心、位运算（共 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/index.md)
 
-- 04.01 枚举算法（第 01 ~ 02 天）
+- [04.01 枚举算法（第 01 ~ 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.01/index.md)
 - 04.02 递归算法与分治算法（第 03 ~ 06 天）
 - 04.03 回溯算法（第 07 ~ 09 天）
 - 04.04 贪心算法（第 10 ~ 12 天）
