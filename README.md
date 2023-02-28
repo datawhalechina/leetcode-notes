@@ -38,7 +38,7 @@
 - [02.03 深度优先搜索（第 08 ~ 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/index.md)
 - [02.04 队列与优先队列（第 11 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/index.md)
 - [02.05 广度优先搜索（第 13 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/index.md)
-- 02.06 拓扑排序（第 15 天）
+- [02.06 拓扑排序（第 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.06/index.md)
 
 ### [03. 基础数据结构篇（下）：哈希表、字符串、二叉树、并查集（共 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/index.md)
 
@@ -58,11 +58,11 @@
 
 ### 05. 动态规划篇（共 14 天）
 
-- 05.01 动态规划基础、记忆化搜索（ 第 01 ~ 02 天）
-- 05.02 线性动态规划（第 03 ~ 06 天）
-- 05.03 背包问题（第 07 ~ 09 天）
-- 05.04 树形 DP 和 区间 DP（第 10 ~ 11 天）
-- 05.05 其他 DP 问题（第 12 ~ 14 天）
+- [05.01 动态规划基础、记忆化搜索（ 第 01 ~ 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.01/index.md)
+- [05.02 线性动态规划（第 03 ~ 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.02/index.md)
+- [05.03 背包问题（第 07 ~ 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.03/index.md)
+- [05.04 区间 DP 和 树形 DP（第 10 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/index.md)
+- 05.05 其他 DP 问题（第 13 ~ 14 天）
 
 ### [06. 面试篇（上）（共 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/index.md)
 
