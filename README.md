@@ -56,7 +56,7 @@
 - [04.04 贪心算法（第 10 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.04/index.md)
 - [04.05 位运算（第 13 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.05/index.md)
 
-### 05. 动态规划篇（共 14 天）
+### [05. 动态规划篇（共 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/index.md)
 
 - [05.01 动态规划基础、记忆化搜索（ 第 01 ~ 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.01/index.md)
 - [05.02 线性动态规划（第 03 ~ 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.02/index.md)
