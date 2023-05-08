@@ -76,7 +76,7 @@
 ### [07. 面试篇（下）（共 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/index.md)
 
 - [07.01 第 051 ~ 062 题（第 01 ~ 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/07.01/index.md)
-- [07.02 第 063 ~ 074 题（ 第 05 ~ 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/07.02/index.md)
+- [07.02 第 063 ~ 074 题（第 05 ~ 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/07.02/index.md)
 - [07.03 第 075 ~ 087 题（第 09 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/07.03/index.md)
 - [07.04 第 088 ~ 100 题（第 13 ~ 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/07.04/index.md)
 
