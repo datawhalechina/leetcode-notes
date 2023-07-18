@@ -64,7 +64,7 @@
 - [05.02 线性动态规划（第 03 ~ 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.02/index.md)
 - [05.03 背包问题（第 07 ~ 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.03/index.md)
 - [05.04 区间 DP 和 树形 DP（第 10 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/index.md)
-- [05.05  状压 DP、计数 DP 和数位 DP（第 13 ~ 15 天）]()
+- [05.05  状压 DP、计数 DP 和数位 DP（第 13 ~ 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.05/index.md)
 
 ### [06. 面试篇（上）（共 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/index.md)
 
