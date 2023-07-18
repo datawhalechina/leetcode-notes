@@ -16,7 +16,7 @@
 2. 时间花费：
    1. 每个学习周期为 14 ~ 16 天学习任务。
    2. 每天平均花费时间 1 ~ 3 小时不等，根据个人学习接受能力强弱有所浮动。
-   3. 项目总计 7 个学习周期，共 103 天学习任务。
+   3. 项目总计 7 个学习周期，共 104 天学习任务。
 3. 学习建议：
    1. 从未刷过算法题目的同学，推荐先看下 [「01.01.03 LeetCode 入门及攻略（第 01 ~ 02 天）」](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.01/01.01.03%20LeetCode-Guide.md) 相关内容。
    2. 推荐按照项目中制定的学习周期进行算法学习。
@@ -58,13 +58,13 @@
 - [04.04 贪心算法（第 10 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.04/index.md)
 - [04.05 位运算（第 13 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.05/index.md)
 
-### [05. 动态规划篇（共 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/index.md)
+### [05. 动态规划篇（共 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/index.md)
 
 - [05.01 动态规划基础、记忆化搜索（ 第 01 ~ 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.01/index.md)
 - [05.02 线性动态规划（第 03 ~ 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.02/index.md)
 - [05.03 背包问题（第 07 ~ 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.03/index.md)
 - [05.04 区间 DP 和 树形 DP（第 10 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/index.md)
-- 05.05 其他 DP 问题（第 13 ~ 14 天）
+- [05.05  状压 DP、计数 DP 和数位 DP（第 13 ~ 15 天）]()
 
 ### [06. 面试篇（上）（共 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/index.md)
 
