@@ -10,8 +10,8 @@
 ## 使用说明
 
 1. 章节划分：
-   1. 项目总共 7 个章节，其中第 01 ~ 05 章节为「算法与数据结构知识」，第 06 ~ 07 章节为「100 道高频面试题汇总」。
-   2. 项目中每一章节对应一个「学习周期」，章节中每一小节对应一个「学习专题」。
+   1. 项目总共 8 个章节，其中第 01 ~ 05 章节为「算法与数据结构知识」，第 06 ~ 07 章节为「100 道高频面试题汇总」，第 08 章节为「各章节习题解析」。
+   2. 项目中 的第 01 ~ 07 章节，每一章节对应一个「学习周期」，章节中每一小节对应一个「学习专题」。
    3. 小节中每天都有对应的「学习内容」和「练习题目（每天 3 道）」。
 2. 时间花费：
    1. 每个学习周期为 14 ~ 16 天学习任务。
@@ -79,6 +79,16 @@
 - [07.02 第 063 ~ 074 题（第 05 ~ 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/07.02/index.md)
 - [07.03 第 075 ~ 087 题（第 09 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/07.03/index.md)
 - [07.04 第 088 ~ 100 题（第 13 ~ 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch07/07.04/index.md)
+
+### [08. 各章节习题解析](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/index.md)
+
+- [01 章节习题解析](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch01-keys/index.md)
+- [02 章节习题解析](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch02-keys/index.md)
+- [03 章节习题解析](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch03-keys/index.md)
+- [04 章节习题解析](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch04-keys/index.md)
+- [05 章节习题解析](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch05-keys/index.md)
+- [06 章节习题解析](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/index.md)
+- [07 章节习题解析](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch07-keys/index.md)
 
 ## 贡献者名单
 
