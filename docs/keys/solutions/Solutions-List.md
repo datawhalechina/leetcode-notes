@@ -225,9 +225,9 @@
 | 2235 | [两整数相加](https://leetcode.cn/problems/add-two-integers/) | [Python](https://github.com/datawhalechina/leetcode-notes/tree/main/docs/solutions/2235.md) | 数学 | 简单 |
 | 2249 | [统计圆内格点数目](https://leetcode.cn/problems/count-lattice-points-inside-a-circle/) | [Python](https://github.com/datawhalechina/leetcode-notes/tree/main/docs/solutions/2249.md) | 几何、数组、哈希表、数学、枚举 | 中等 |
 | 2427 | [公因子的数目](https://leetcode.cn/problems/number-of-common-factors/) | [Python](https://github.com/datawhalechina/leetcode-notes/tree/main/docs/solutions/2427.md) | 数学、枚举、数论 | 简单 |
-| 剑指 Offer 13 | [机器人的运动范围](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) |  | 深度优先搜索、广度优先搜索、动态规划 | 中等 |
-| 剑指 Offer 40 | [最小的k个数](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/) |  | 数组、分治、快速选择、排序、堆（优先队列） | 简单 |
-| 剑指 Offer 45 | [把数组排成最小的数](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) |  | 贪心、字符串、排序 | 中等 |
-| 剑指 Offer 51 | [数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) |  | 树状数组、线段树、数组、二分查找、分治、有序集合、归并排序 | 困难 |
-| 剑指 Offer 57 - II | [和为s的连续正数序列](https://leetcode.cn/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) |  | 数学、双指针、枚举 | 简单 |
-| 剑指 Offer II 041 | [滑动窗口的平均值](https://leetcode.cn/problems/qIsx9U/) |  | 设计、队列、数组、数据流 | 简单 |
+| 剑指 Offer 13 | [机器人的运动范围](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [Python](https://github.com/datawhalechina/leetcode-notes/tree/main/docs/solutions/Offer-13.md) | 深度优先搜索、广度优先搜索、动态规划 | 中等 |
+| 剑指 Offer 40 | [最小的k个数](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/) | [Python](https://github.com/datawhalechina/leetcode-notes/tree/main/docs/solutions/Offer-40.md) | 数组、分治、快速选择、排序、堆（优先队列） | 简单 |
+| 剑指 Offer 45 | [把数组排成最小的数](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [Python](https://github.com/datawhalechina/leetcode-notes/tree/main/docs/solutions/Offer-45.md) | 贪心、字符串、排序 | 中等 |
+| 剑指 Offer 51 | [数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [Python](https://github.com/datawhalechina/leetcode-notes/tree/main/docs/solutions/Offer-51.md) | 树状数组、线段树、数组、二分查找、分治、有序集合、归并排序 | 困难 |
+| 剑指 Offer 57 - II | [和为s的连续正数序列](https://leetcode.cn/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [Python](https://github.com/datawhalechina/leetcode-notes/tree/main/docs/solutions/Offer-57-II.md) | 数学、双指针、枚举 | 简单 |
+| 剑指 Offer II 041 | [滑动窗口的平均值](https://leetcode.cn/problems/qIsx9U/) | [Python](https://github.com/datawhalechina/leetcode-notes/tree/main/docs/solutions/Offer-II-041.md) | 设计、队列、数组、数据流 | 简单 |
