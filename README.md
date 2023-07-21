@@ -92,11 +92,17 @@
 - [LeetCode 题解（字典序排序）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/solutions/Solutions-List.md)
 - [LeetCode 题解（按分类排序）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/solutions/Categories-List.md)
 
-## 贡献者名单
+## 致谢
+
+### 贡献者名单
 
 | 姓名                                  | 职责                          | 简介                        | 联系          |
 | :------------------------------------ | :---------------------------- | :-------------------------- | ------------- |
 | [杨世超](https://github.com/itcharge) | 项目负责人，第 01~07 章节内容 | https://github.com/itcharge | i@itcharge.cn |
+
+### 其他
+
+1. 特别感谢 [@LSGOMYP](https://github.com/LSGOMYP)、[@Sm1les](https://github.com/Sm1les) 对本项目的帮助与支持。
 
 ## 关注我们
 
