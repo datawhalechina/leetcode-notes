@@ -1,9 +1,9 @@
 ## 05.04 区间 DP 和 树形 DP（第 10 ~ 12 天）
 
-- [05.04.01 区间 DP（第 10 ~ 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.01%20Interval-DP.md)
-- [05.04.02 练习题目（第 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.02%20Exercises.md)
-- [05.04.03 练习题目（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.03%20Exercises.md)
-- [05.04.04 区间 DP 题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.04%20Interval-DP-List.md)
-- [05.04.05 树形 DP（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.05%20Tree-DP.md)
-- [05.02.06 练习题目（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.06%20Exercises.md)
-- [05.04.07 树形 DP 题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.07%20Tree-DP-List.md)
+- [05.04.01 区间 DP（第 10 ~ 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.01-Interval-DP.md)
+- [05.04.02 练习题目（第 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.02-Exercises.md)
+- [05.04.03 练习题目（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.03-Exercises.md)
+- [05.04.04 区间 DP 题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.04-Interval-DP-List.md)
+- [05.04.05 树形 DP（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.05-Tree-DP.md)
+- [05.02.06 练习题目（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.06-Exercises.md)
+- [05.04.07 树形 DP 题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/05.04.07-Tree-DP-List.md)

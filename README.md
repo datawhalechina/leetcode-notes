@@ -18,7 +18,7 @@
    2. 每天平均花费时间 1 ~ 3 小时不等，根据个人学习接受能力强弱有所浮动。
    3. 项目总计 7 个学习周期，共 104 天学习任务。
 3. 学习建议：
-   1. 从未刷过算法题目的同学，推荐先看下 [「01.01.03 LeetCode 入门及攻略（第 01 ~ 02 天）」](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.01/01.01.03%20LeetCode-Guide.md) 相关内容。
+   1. 从未刷过算法题目的同学，推荐先看下 [「01.01.03 LeetCode 入门及攻略（第 01 ~ 02 天）」](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.01/01.01.03-LeetCode-Guide.md) 相关内容。
    2. 推荐按照项目中制定的学习周期进行算法学习。
    3. 可在看完每日的学习内容之后，选择每日对应的练习题目进行巩固练习。
    4. 做完每日练习题目之后，如有余力，可通过相关专题下的题目清单进行拓展练习。

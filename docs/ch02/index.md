@@ -2,53 +2,53 @@
 
 ## 02.01 链表（第 01 ~ 04 天）
 
-- [02.01.01 链表基础知识（第 01 ~ 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.01%20Linked-List-Basic.md)
-- [02.01.02 练习题目（第 01 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.02%20Exercises.md)
-- [02.01.03 练习题目（第 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.03%20Exercises.md)
-- [02.01.04 链表基础题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.04%20Linked-List-Basic-List.md)
-- [02.01.05 链表排序（第 03 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch0202.01/02.01.05%20Linked-List-Sort.md)
-- [02.01.06 练习题目（第 03 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.06%20Exercises.md)
-- [02.01.07 链表排序题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.07%20Linked-List-Sort-List.md)
-- [02.01.08 链表双指针（第 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.08%20Linked-List-Two-Pointers.md)
-- [02.01.09 练习题目（第 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.09%20Exercises.md)
-- [02.01.10 链表双指针题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.10%20Linked-List-Two-Pointers-List.md)
+- [02.01.01 链表基础知识（第 01 ~ 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.01-Linked-List-Basic.md)
+- [02.01.02 练习题目（第 01 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.02-Exercises.md)
+- [02.01.03 练习题目（第 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.03-Exercises.md)
+- [02.01.04 链表基础题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.04-Linked-List-Basic-List.md)
+- [02.01.05 链表排序（第 03 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch0202.01/02.01.05-Linked-List-Sort.md)
+- [02.01.06 练习题目（第 03 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.06-Exercises.md)
+- [02.01.07 链表排序题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.07-Linked-List-Sort-List.md)
+- [02.01.08 链表双指针（第 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.08-Linked-List-Two-Pointers.md)
+- [02.01.09 练习题目（第 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.09-Exercises.md)
+- [02.01.10 链表双指针题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/02.01.10-Linked-List-Two-Pointers-List.md)
 
 ## 02.02 堆栈与单调栈（第 05 ~ 07 天）
 
-- [02.02.01 堆栈基础知识（第 05 ~ 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.01%20Stack-Basic.md)
-- [02.02.02 练习题目（第 05 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.02%20Exercises.md)
-- [02.02.03 练习题目（第 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.03%20Exercises.md)
-- [02.02.04 堆栈基础题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.04%20Stack-Basic-List.md)
-- [02.02.05 单调栈（第 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.05%20Monotone-Stack.md)
-- [02.02.06 练习题目（第 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.06%20Exercises.md)
-- [02.02.07 单调栈题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.07%20Monotone-Stack-List.md)
+- [02.02.01 堆栈基础知识（第 05 ~ 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.01-Stack-Basic.md)
+- [02.02.02 练习题目（第 05 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.02-Exercises.md)
+- [02.02.03 练习题目（第 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.03-Exercises.md)
+- [02.02.04 堆栈基础题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.04-Stack-Basic-List.md)
+- [02.02.05 单调栈（第 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.05-Monotone-Stack.md)
+- [02.02.06 练习题目（第 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.06-Exercises.md)
+- [02.02.07 单调栈题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/02.02.07-Monotone-Stack-List.md)
 
 ## 02.03 深度优先搜索（第 08 ~ 10 天）
 
-- [02.03.01 深度优先搜索（第 08 ~ 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/02.03.01%20DFS.md)
-- [02.03.02 练习题目（第 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/02.03.02%20Exercises.md)
-- [02.03.03 练习题目（第 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/02.03.03%20Exercises.md)
-- [02.03.04 练习题目（第 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/02.03.04%20Exercises.md)
-- [02.03.05 深度优先搜索题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/02.03.05%20DFS-List.md)
+- [02.03.01 深度优先搜索（第 08 ~ 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/02.03.01-DFS.md)
+- [02.03.02 练习题目（第 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/02.03.02-Exercises.md)
+- [02.03.03 练习题目（第 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/02.03.03-Exercises.md)
+- [02.03.04 练习题目（第 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/02.03.04-Exercises.md)
+- [02.03.05 深度优先搜索题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/02.03.05-DFS-List.md)
 
 ## 02.04 队列与优先队列（第 11 ~ 12 天）
 
-- [02.04.01 队列基础知识（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.01%20Queue-Basic.md)
-- [02.04.02 练习题目（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.02%20Exercises.md)
-- [02.04.03 队列基础题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.03%20Queue-Basic-List.md)
-- [02.04.04 优先队列（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.04%20Priority-Queue.md)
-- [02.04.05 练习题目（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.05%20Exercises.md)
-- [02.04.06 优先队列题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.06%20Priority-Queue-List.md)
+- [02.04.01 队列基础知识（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.01-Queue-Basic.md)
+- [02.04.02 练习题目（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.02-Exercises.md)
+- [02.04.03 队列基础题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.03-Queue-Basic-List.md)
+- [02.04.04 优先队列（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.04-Priority-Queue.md)
+- [02.04.05 练习题目（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.05-Exercises.md)
+- [02.04.06 优先队列题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/02.04.06-Priority-Queue-List.md)
 
 ## 02.05 广度优先搜索（第 13 ~ 14 天）
 
-- [02.05.01 广度优先搜索（第 13 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/02.05.01%20BFS.md)
-- [02.05.02 练习题目（第 13 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/02.05.02%20Exercises.md)
-- [02.05.03 练习题目（第 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/02.05.03%20Exercises.md)
-- [02.05.04 广度优先搜索题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/02.05.04%20BFS-List.md)
+- [02.05.01 广度优先搜索（第 13 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/02.05.01-BFS.md)
+- [02.05.02 练习题目（第 13 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/02.05.02-Exercises.md)
+- [02.05.03 练习题目（第 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/02.05.03-Exercises.md)
+- [02.05.04 广度优先搜索题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/02.05.04-BFS-List.md)
 
 ## 02.06 拓扑排序（第 15 天）
 
-- [02.06.01 拓扑排序（第 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.06/02.06.01%20Graph-Topological-Sorting.md)
-- [02.06.02 练习题目（第 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.06/02.06.02%20Exercises.md)
-- [02.06.03 拓扑排序题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.06/02.06.03%20Graph-Topological-Sorting-List.md)
+- [02.06.01 拓扑排序（第 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.06/02.06.01-Graph-Topological-Sorting.md)
+- [02.06.02 练习题目（第 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.06/02.06.02-Exercises.md)
+- [02.06.03 拓扑排序题目](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.06/02.06.03-Graph-Topological-Sorting-List.md)
