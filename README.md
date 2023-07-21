@@ -89,6 +89,8 @@
 - [05 章节习题解析](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch05-keys/index.md)
 - [06 章节习题解析](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/index.md)
 - [07 章节习题解析](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch07-keys/index.md)
+- [LeetCode 题解（字典序排序）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/solutions/Solutions-List.md)
+- [LeetCode 题解（按分类排序）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/solutions/Categories-List.md)
 
 ## 贡献者名单
 

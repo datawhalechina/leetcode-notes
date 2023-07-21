@@ -124,3 +124,8 @@
 - [07.04.02 习题解析（第 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch07-keys/07.04.02-Exercises-Key.md)
 - [07.04.03 习题解析（第 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch07-keys/07.04.03-Exercises-Key.md)
 - [07.04.04 习题解析（第 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch07-keys/07.04.04-Exercises-Key.md)
+
+## LeetCode 题目解析
+
+- [LeetCode 题解（字典序排序）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/solutions/Solutions-List.md)
+- [LeetCode 题解（按分类排序）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/solutions/Categories-List.md)
