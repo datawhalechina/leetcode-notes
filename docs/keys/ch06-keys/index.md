@@ -1,18 +1,20 @@
 ## 06 章节习题解析
 
-- [06.01.01 习题解析（第 01 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.01.01-Exercises-Key.md)
-- [06.01.02 习题解析（第 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.01.02-Exercises-Key.md)
-- [06.01.03 习题解析（第 03 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.01.03-Exercises-Key.md)
-- [06.01.04 习题解析（第 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.01.04-Exercises-Key.md)
-- [06.02.01 习题解析（第 05 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.02.01-Exercises-Key.md)
-- [06.02.02 习题解析（第 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.02.02-Exercises-Key.md)
-- [06.02.03 习题解析（第 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.02.03-Exercises-Key.md)
-- [06.02.04 习题解析（第 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.02.04-Exercises-Key.md)
-- [06.03.01 习题解析（第 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.03.01-Exercises-Key.md)
-- [06.03.02 习题解析（第 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.03.02-Exercises-Key.md)
-- [06.03.02 习题解析（第 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.03.03-Exercises-Key.md)
-- [06.03.03 习题解析（第 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.03.04-Exercises-Key.md)
-- [06.03.04 习题解析（第 13 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.04.01-Exercises-Key.md)
-- [06.04.01 习题解析（第 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.04.02-Exercises-Key.md)
-- [06.04.02 习题解析（第 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.04.03-Exercises-Key.md)
-- [06.04.03 习题解析（第 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.04.04-Exercises-Key.md)
+| 章节标题                               | 链接地址                                                     |
+| -------------------------------------- | ------------------------------------------------------------ |
+| 06.01.01 习题解析（第 01 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.01.01-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.01.01-Exercises-Key.md) |
+| 06.01.02 习题解析（第 02 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.01.02-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.01.02-Exercises-Key.md) |
+| 06.01.03 习题解析（第 03 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.01.03-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.01.03-Exercises-Key.md) |
+| 06.01.04 习题解析（第 04 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.01.04-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.01.04-Exercises-Key.md) |
+| 06.02.01 习题解析（第 05 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.02.01-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.02.01-Exercises-Key.md) |
+| 06.02.02 习题解析（第 06 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.02.02-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.02.02-Exercises-Key.md) |
+| 06.02.03 习题解析（第 07 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.02.03-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.02.03-Exercises-Key.md) |
+| 06.02.04 习题解析（第 08 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.02.04-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.02.04-Exercises-Key.md) |
+| 06.03.01 习题解析（第 09 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.03.01-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.03.01-Exercises-Key.md) |
+| 06.03.02 习题解析（第 10 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.03.02-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.03.02-Exercises-Key.md) |
+| 06.03.02 习题解析（第 11 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.03.03-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.03.03-Exercises-Key.md) |
+| 06.03.03 习题解析（第 12 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.03.04-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.03.04-Exercises-Key.md) |
+| 06.03.04 习题解析（第 13 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.04.01-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.04.01-Exercises-Key.md) |
+| 06.04.01 习题解析（第 14 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.04.02-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.04.02-Exercises-Key.md) |
+| 06.04.02 习题解析（第 15 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.04.03-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.04.03-Exercises-Key.md) |
+| 06.04.03 习题解析（第 16 天） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/06.04.04-Exercises-Key)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/06.04.04-Exercises-Key.md) |
