@@ -20,7 +20,7 @@
 
 **示例**：
 
-```Python
+```python
 输入：
 inputs = ["MovingAverage", "next", "next", "next", "next"]
 inputs = [[3], [1], [10], [3], [5]]
@@ -46,7 +46,7 @@ movingAverage.next(5); // 返回 6.0 = (10 + 3 + 5) / 3
 
 ### 思路 1：代码
 
-```Python
+```python
 class MovingAverage:
 
     def __init__(self, size: int):

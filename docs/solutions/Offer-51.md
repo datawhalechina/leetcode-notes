@@ -16,7 +16,7 @@
 
 **示例**：
 
-```Python
+```python
 输入: [7,5,6,4]
 输出: 5
 ```
@@ -53,7 +53,7 @@
 
 ### 思路 1：代码
 
-```Python
+```python
 class Solution:
     cnt = 0
     def merge(self, left_arr, right_arr):           # 归并过程
@@ -110,7 +110,7 @@ class Solution:
 
 ### 思路 2：代码
 
-```Python
+```python
 import bisect
 
 class BinaryIndexTree:

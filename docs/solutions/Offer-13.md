@@ -16,7 +16,7 @@
 
 **示例**：
 
-```Python
+```python
 输入：m = 2, n = 3, k = 1
 输出：3
 
@@ -40,7 +40,7 @@
 
 ### 思路 1：代码
 
-```Python
+```python
 import collections
 
 class Solution:
