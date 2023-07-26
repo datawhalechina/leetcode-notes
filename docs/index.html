@@ -66,38 +66,22 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   
   <!-- gitalk for comments -->
-<!--  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">-->
-<!--  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>-->
-<!--  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>-->
-<!--  <script>-->
-<!--const gitalk = new Gitalk({-->
-<!--  clientID: '85eaa492e716e13725a6',-->
-<!--  clientSecret: 'd5491426f805642d12277082cacaa398d6c7a2f0',-->
-<!--  repo: 'leetcode-notes',-->
-<!--  owner: 'datawhalechina',-->
-<!--  admin: ['datawhalechina','itcharge'],-->
-<!--  title: location.hash.match(/#(.*?)([?]|$)/)[1], // 这个是设置 issue 对应的标题-->
-<!--  id: location.hash.match(/#(.*?)([?]|$)/)[1],-->
-<!--  // facebook-like distraction free mode-->
-<!--  distractionFreeMode: false-->
-<!--})-->
-<!--// 监听URL中hash的变化，如果发现换了一个 md 文件，那么刷新页面，解决整个网站使用一个 gitalk 评论 issues 的问题。-->
-<!--window.onhashchange = function(event){-->
-<!--  if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {-->
-<!--    location.reload()-->
-<!--  }-->
-<!--}-->
-<!--  </script>-->
-  <!-- utteranc.es for comments -->
-  <script src="https://utteranc.es/client.js"
-    repo="datawhalechina/leetcode-notes"
-    issue-term="title"
-    label="Comments"
-    theme="github-light"
-    crossorigin="anonymous"
-    async>
-  </script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script>
+    const gitalk = new Gitalk({
+      clientID: '85eaa492e716e13725a6',
+      clientSecret: 'd5491426f805642d12277082cacaa398d6c7a2f0',
+      repo: 'leetcode-notes',
+      owner: 'datawhalechina',
+      admin: ['datawhalechina','itcharge'],
+      title: location.hash.match(/#(.*?)([?]|$)/)[1], // 这个是设置 issue 对应的标题
+      id: location.hash.match(/#(.*?)([?]|$)/)[1],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+    // 监听URL中hash的变化，如果发现换了一个 md 文件，那么刷新页面，解决整个网站使用一个 gitalk 评论 issues 的问题。
     window.onhashchange = function(event){
       if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
         location.reload()
