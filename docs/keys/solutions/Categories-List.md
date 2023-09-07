@@ -110,7 +110,7 @@
 | 0384 | [打乱数组](https://leetcode.cn/problems/shuffle-an-array/) |  | 数组、数学、随机化 | 中等 |
 | 剑指 Offer 45 | [把数组排成最小的数](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/Offer-45)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/Offer-45.md) | 贪心、字符串、排序 | 中等 |
 
-### 01.04.05 二分查找题目
+### 01.04.06 二分查找题目
 
 #### 二分下标题目
 
