@@ -160,7 +160,7 @@
 | 0287 | [寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number/) |  | 位运算、数组、双指针、二分查找 | 中等 |
 | 0719 | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) |  | 数组、双指针、二分查找、排序 | 困难 |
 | 0259 | [较小的三数之和](https://leetcode.cn/problems/3sum-smaller/) |  | 数组、双指针、二分查找、排序 | 中等 |
-| 1011 | [在 D 天内送达包裹的能力](https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days/) |  | 数组、二分查找 | 中等 |
+| 1011 | [在 D 天内送达包裹的能力](https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1011)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1011.md) | 数组、二分查找 | 中等 |
 | 1482 | [制作 m 束花所需的最少天数](https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/) |  | 数组、二分查找 | 中等 |
 
 ### 01.05.04 双指针题目
@@ -171,7 +171,7 @@
 | :------ | :------ | :------ | :------ | :------ |
 | 0167 | [两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0167)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0167.md) | 数组、双指针、二分查找 | 中等 |
 | 0344 | [反转字符串](https://leetcode.cn/problems/reverse-string/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0344)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0344.md) | 双指针、字符串 | 简单 |
-| 0345 | [反转字符串中的元音字母](https://leetcode.cn/problems/reverse-vowels-of-a-string/) |  | 双指针、字符串 | 简单 |
+| 0345 | [反转字符串中的元音字母](https://leetcode.cn/problems/reverse-vowels-of-a-string/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0345)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0345.md) | 双指针、字符串 | 简单 |
 | 0125 | [验证回文串](https://leetcode.cn/problems/valid-palindrome/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0125)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0125.md) | 双指针、字符串 | 简单 |
 | 0011 | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0011)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0011.md) | 贪心、数组、双指针 | 中等 |
 | 0611 | [有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/) |  | 贪心、数组、双指针、二分查找、排序 | 中等 |
@@ -195,7 +195,7 @@
 | :------ | :------ | :------ | :------ | :------ |
 | 0026 | [删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0026)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0026.md) | 数组、双指针 | 简单 |
 | 0080 | [删除有序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0080)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0080.md) | 数组、双指针 | 中等 |
-| 0027 | [移除元素](https://leetcode.cn/problems/remove-element/) |  | 数组、双指针 | 简单 |
+| 0027 | [移除元素](https://leetcode.cn/problems/remove-element/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0027)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0027.md) | 数组、双指针 | 简单 |
 | 0283 | [移动零](https://leetcode.cn/problems/move-zeroes/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0283)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0283.md) | 数组、双指针 | 简单 |
 | 0845 | [数组中的最长山脉](https://leetcode.cn/problems/longest-mountain-in-array/) |  | 数组、双指针、动态规划、枚举 | 中等 |
 | 0088 | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0088)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0088.md) | 数组、双指针、排序 | 简单 |
@@ -208,7 +208,7 @@
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
 | 0350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) |  | 数组、哈希表、双指针、二分查找、排序 | 简单 |
-| 0925 | [长按键入](https://leetcode.cn/problems/long-pressed-name/) |  | 双指针、字符串 | 简单 |
+| 0925 | [长按键入](https://leetcode.cn/problems/long-pressed-name/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0925)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0925.md) | 双指针、字符串 | 简单 |
 | 0844 | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) |  | 栈、双指针、字符串、模拟 | 简单 |
 | 1229 | [安排会议日程](https://leetcode.cn/problems/meeting-scheduler/) |  | 数组、双指针、排序 | 中等 |
 | 0415 | [字符串相加](https://leetcode.cn/problems/add-strings/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0415)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0415.md) | 数学、字符串、模拟 | 简单 |
@@ -220,7 +220,7 @@
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
 | 1343 | [大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1343)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1343.md) | 数组、滑动窗口 | 中等 |
-| 0643 | [子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/) |  | 数组、滑动窗口 | 简单 |
+| 0643 | [子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0643)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0643.md) | 数组、滑动窗口 | 简单 |
 | 1052 | [爱生气的书店老板](https://leetcode.cn/problems/grumpy-bookstore-owner/) |  | 数组、滑动窗口 | 中等 |
 | 1423 | [可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/) |  | 数组、前缀和、滑动窗口 | 中等 |
 | 1456 | [定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) |  | 字符串、滑动窗口 | 中等 |
