@@ -11,8 +11,8 @@
 | 0189 | [轮转数组](https://leetcode.cn/problems/rotate-array/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0189)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0189.md) | 数组、数学、双指针 | 中等 |
 | 0066 | [加一](https://leetcode.cn/problems/plus-one/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0066)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0066.md) | 数组、数学 | 简单 |
 | 0724 | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0724)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0724.md) | 数组、前缀和 | 简单 |
-| 0485 | [最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/) |  | 数组 | 简单 |
-| 0238 | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) |  | 数组、前缀和 | 中等 |
+| 0485 | [最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0485)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0485.md) | 数组 | 简单 |
+| 0238 | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0238)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0238.md) | 数组、前缀和 | 中等 |
 
 #### 二维数组题目
 
@@ -20,10 +20,10 @@
 | :------ | :------ | :------ | :------ | :------ |
 | 0498 | [对角线遍历](https://leetcode.cn/problems/diagonal-traverse/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0498)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0498.md) | 数组、矩阵、模拟 | 中等 |
 | 0048 | [旋转图像](https://leetcode.cn/problems/rotate-image/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0048)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0048.md) | 数组、数学、矩阵 | 中等 |
-| 0073 | [矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/) |  | 数组、哈希表、矩阵 | 中等 |
+| 0073 | [矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0073)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0073.md) | 数组、哈希表、矩阵 | 中等 |
 | 0054 | [螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0054)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0054.md) | 数组、矩阵、模拟 | 中等 |
-| 0059 | [螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) |  | 数组、矩阵、模拟 | 中等 |
-| 0289 | [生命游戏](https://leetcode.cn/problems/game-of-life/) |  | 数组、矩阵、模拟 | 中等 |
+| 0059 | [螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0059)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0059.md) | 数组、矩阵、模拟 | 中等 |
+| 0289 | [生命游戏](https://leetcode.cn/problems/game-of-life/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0289)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0289.md) | 数组、矩阵、模拟 | 中等 |
 
 ### 01.03.15 排序算法题目
 
@@ -240,7 +240,7 @@
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
 | 0674 | [最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0674)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0674.md) | 数组 | 简单 |
-| 0485 | [最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/) |  | 数组 | 简单 |
+| 0485 | [最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0485)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0485.md) | 数组 | 简单 |
 | 0487 | [最大连续1的个数 II](https://leetcode.cn/problems/max-consecutive-ones-ii/) |  | 数组、动态规划、滑动窗口 | 中等 |
 | 0076 | [最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0076)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0076.md) | 哈希表、字符串、滑动窗口 | 困难 |
 | 0718 | [最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0718)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0718.md) | 数组、二分查找、动态规划、滑动窗口、哈希函数、滚动哈希 | 中等 |
