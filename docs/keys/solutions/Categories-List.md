@@ -83,6 +83,7 @@
 | :------ | :------ | :------ | :------ | :------ |
 | 0912 | [排序数组](https://leetcode.cn/problems/sort-an-array/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0912)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0912.md) | 数组、分治、桶排序、计数排序、基数排序、排序、堆（优先队列）、归并排序 | 中等 |
 | 1122 | [数组的相对排序](https://leetcode.cn/problems/relative-sort-array/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1122)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1122.md) | 数组、哈希表、计数排序、排序 | 简单 |
+| 0561 | [数组拆分](https://leetcode.cn/problems/array-partition/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0561)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0561.md) | 贪心、数组、计数排序、排序 | 简单 |
 
 #### 桶排序题目
 
@@ -97,7 +98,6 @@
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
 | 0164 | [最大间距](https://leetcode.cn/problems/maximum-gap/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0164)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0164.md) | 数组、桶排序、基数排序、排序 | 困难 |
-| 0561 | [数组拆分](https://leetcode.cn/problems/array-partition/) |  | 贪心、数组、计数排序、排序 | 简单 |
 
 #### 其他排序题目
 
@@ -671,7 +671,7 @@
 | 0045 | [跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0045)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0045.md) | 贪心、数组、动态规划 | 中等 |
 | 0392 | [判断子序列](https://leetcode.cn/problems/is-subsequence/) |  | 双指针、字符串、动态规划 | 简单 |
 | 0122 | [买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0122)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0122.md) | 贪心、数组、动态规划 | 中等 |
-| 0561 | [数组拆分](https://leetcode.cn/problems/array-partition/) |  | 贪心、数组、计数排序、排序 | 简单 |
+| 0561 | [数组拆分](https://leetcode.cn/problems/array-partition/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0561)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0561.md) | 贪心、数组、计数排序、排序 | 简单 |
 | 1710 | [卡车上的最大单元数](https://leetcode.cn/problems/maximum-units-on-a-truck/) |  | 贪心、数组、排序 | 简单 |
 | 1217 | [玩筹码](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position/) |  | 贪心、数组、数学 | 简单 |
 | 1247 | [交换字符使得字符串相同](https://leetcode.cn/problems/minimum-swaps-to-make-strings-equal/) |  | 贪心、数学、字符串 | 中等 |
