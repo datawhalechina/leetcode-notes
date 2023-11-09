@@ -156,7 +156,7 @@
 | 0270 | [最接近的二叉搜索树值](https://leetcode.cn/problems/closest-binary-search-tree-value/) |  | 树、深度优先搜索、二叉搜索树、二分查找、二叉树 | 简单 |
 | 0702 | [搜索长度未知的有序数组](https://leetcode.cn/problems/search-in-a-sorted-array-of-unknown-size/) |  | 数组、二分查找、交互 | 中等 |
 | 0349 | [两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0349)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0349.md) | 数组、哈希表、双指针、二分查找、排序 | 简单 |
-| 0350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) |  | 数组、哈希表、双指针、二分查找、排序 | 简单 |
+| 0350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0350)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0350.md) | 数组、哈希表、双指针、二分查找、排序 | 简单 |
 | 0287 | [寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0287)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0287.md) | 位运算、数组、双指针、二分查找 | 中等 |
 | 0719 | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) |  | 数组、双指针、二分查找、排序 | 困难 |
 | 0259 | [较小的三数之和](https://leetcode.cn/problems/3sum-smaller/) |  | 数组、双指针、二分查找、排序 | 中等 |
@@ -177,7 +177,7 @@
 | 0611 | [有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/) |  | 贪心、数组、双指针、二分查找、排序 | 中等 |
 | 0015 | [三数之和](https://leetcode.cn/problems/3sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0015)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0015.md) | 数组、双指针、排序 | 中等 |
 | 0016 | [最接近的三数之和](https://leetcode.cn/problems/3sum-closest/) |  | 数组、双指针、排序 | 中等 |
-| 0018 | [四数之和](https://leetcode.cn/problems/4sum/) |  | 数组、双指针、排序 | 中等 |
+| 0018 | [四数之和](https://leetcode.cn/problems/4sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0018)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0018.md) | 数组、双指针、排序 | 中等 |
 | 0259 | [较小的三数之和](https://leetcode.cn/problems/3sum-smaller/) |  | 数组、双指针、二分查找、排序 | 中等 |
 | 0658 | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/) |  | 数组、双指针、二分查找、排序、滑动窗口、堆（优先队列） | 中等 |
 | 1099 | [小于 K 的两数之和](https://leetcode.cn/problems/two-sum-less-than-k/) |  | 数组、双指针、二分查找、排序 | 简单 |
@@ -207,7 +207,7 @@
 
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
-| 0350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) |  | 数组、哈希表、双指针、二分查找、排序 | 简单 |
+| 0350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0350)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0350.md) | 数组、哈希表、双指针、二分查找、排序 | 简单 |
 | 0925 | [长按键入](https://leetcode.cn/problems/long-pressed-name/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0925)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0925.md) | 双指针、字符串 | 简单 |
 | 0844 | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) |  | 栈、双指针、字符串、模拟 | 简单 |
 | 1229 | [安排会议日程](https://leetcode.cn/problems/meeting-scheduler/) |  | 数组、双指针、排序 | 中等 |
@@ -440,21 +440,21 @@
 
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
-| 0705 | [设计哈希集合](https://leetcode.cn/problems/design-hashset/) |  | 设计、数组、哈希表、链表、哈希函数 | 简单 |
+| 0705 | [设计哈希集合](https://leetcode.cn/problems/design-hashset/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0705)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0705.md) | 设计、数组、哈希表、链表、哈希函数 | 简单 |
 | 0706 | [设计哈希映射](https://leetcode.cn/problems/design-hashmap/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0706)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0706.md) | 设计、数组、哈希表、链表、哈希函数 | 简单 |
 | 0217 | [存在重复元素](https://leetcode.cn/problems/contains-duplicate/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0217)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0217.md) | 数组、哈希表、排序 | 简单 |
 | 0219 | [存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0219)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0219.md) | 数组、哈希表、滑动窗口 | 简单 |
 | 0220 | [存在重复元素 III](https://leetcode.cn/problems/contains-duplicate-iii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0220)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0220.md) | 数组、桶排序、有序集合、排序、滑动窗口 | 困难 |
-| 1941 | [检查是否所有字符出现次数相同](https://leetcode.cn/problems/check-if-all-characters-have-equal-number-of-occurrences/) |  | 哈希表、字符串、计数 | 简单 |
+| 1941 | [检查是否所有字符出现次数相同](https://leetcode.cn/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1941)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1941.md) | 哈希表、字符串、计数 | 简单 |
 | 0136 | [只出现一次的数字](https://leetcode.cn/problems/single-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0136)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0136.md) | 位运算、数组 | 简单 |
-| 0383 | [赎金信](https://leetcode.cn/problems/ransom-note/) |  | 哈希表、字符串、计数 | 简单 |
+| 0383 | [赎金信](https://leetcode.cn/problems/ransom-note/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0383)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0383.md) | 哈希表、字符串、计数 | 简单 |
 | 0349 | [两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0349)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0349.md) | 数组、哈希表、双指针、二分查找、排序 | 简单 |
-| 0350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) |  | 数组、哈希表、双指针、二分查找、排序 | 简单 |
+| 0350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0350)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0350.md) | 数组、哈希表、双指针、二分查找、排序 | 简单 |
 | 0036 | [有效的数独](https://leetcode.cn/problems/valid-sudoku/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0036)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0036.md) | 数组、哈希表、矩阵 | 中等 |
 | 0001 | [两数之和](https://leetcode.cn/problems/two-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0001)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0001.md) | 数组、哈希表 | 简单 |
 | 0015 | [三数之和](https://leetcode.cn/problems/3sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0015)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0015.md) | 数组、双指针、排序 | 中等 |
-| 0018 | [四数之和](https://leetcode.cn/problems/4sum/) |  | 数组、双指针、排序 | 中等 |
-| 0454 | [四数相加 II](https://leetcode.cn/problems/4sum-ii/) |  | 数组、哈希表 | 中等 |
+| 0018 | [四数之和](https://leetcode.cn/problems/4sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0018)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0018.md) | 数组、双指针、排序 | 中等 |
+| 0454 | [四数相加 II](https://leetcode.cn/problems/4sum-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0454)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0454.md) | 数组、哈希表 | 中等 |
 | 0041 | [缺失的第一个正数](https://leetcode.cn/problems/first-missing-positive/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0041)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0041.md) | 数组、哈希表 | 困难 |
 | 0128 | [最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0128)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0128.md) | 并查集、数组、哈希表 | 中等 |
 | 0202 | [快乐数](https://leetcode.cn/problems/happy-number/) |  | 哈希表、数学、双指针 | 简单 |
@@ -576,10 +576,10 @@
 | 0990 | [等式方程的可满足性](https://leetcode.cn/problems/satisfiability-of-equality-equations/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0990)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0990.md) | 并查集、图、数组、字符串 | 中等 |
 | 0547 | [省份数量](https://leetcode.cn/problems/number-of-provinces/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0547)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0547.md) | 深度优先搜索、广度优先搜索、并查集、图 | 中等 |
 | 0684 | [冗余连接](https://leetcode.cn/problems/redundant-connection/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0684)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0684.md) | 深度优先搜索、广度优先搜索、并查集、图 | 中等 |
-| 1319 | [连通网络的操作次数](https://leetcode.cn/problems/number-of-operations-to-make-network-connected/) |  | 深度优先搜索、广度优先搜索、并查集、图 | 中等 |
+| 1319 | [连通网络的操作次数](https://leetcode.cn/problems/number-of-operations-to-make-network-connected/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1319)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1319.md) | 深度优先搜索、广度优先搜索、并查集、图 | 中等 |
 | 0765 | [情侣牵手](https://leetcode.cn/problems/couples-holding-hands/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0765)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0765.md) | 贪心、深度优先搜索、广度优先搜索、并查集、图 | 困难 |
-| 0399 | [除法求值](https://leetcode.cn/problems/evaluate-division/) |  | 深度优先搜索、广度优先搜索、并查集、图、数组、最短路 | 中等 |
-| 0959 | [由斜杠划分区域](https://leetcode.cn/problems/regions-cut-by-slashes/) |  | 深度优先搜索、广度优先搜索、并查集、图 | 中等 |
+| 0399 | [除法求值](https://leetcode.cn/problems/evaluate-division/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0399)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0399.md) | 深度优先搜索、广度优先搜索、并查集、图、数组、最短路 | 中等 |
+| 0959 | [由斜杠划分区域](https://leetcode.cn/problems/regions-cut-by-slashes/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0959)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0959.md) | 深度优先搜索、广度优先搜索、并查集、图 | 中等 |
 | 1631 | [最小体力消耗路径](https://leetcode.cn/problems/path-with-minimum-effort/) |  | 深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵、堆（优先队列） | 中等 |
 | 0778 | [水位上升的泳池中游泳](https://leetcode.cn/problems/swim-in-rising-water/) |  | 深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵、堆（优先队列） | 困难 |
 | 1202 | [交换字符串中的元素](https://leetcode.cn/problems/smallest-string-with-swaps/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1202)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1202.md) | 深度优先搜索、广度优先搜索、并查集、哈希表、字符串 | 中等 |
