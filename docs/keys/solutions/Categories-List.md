@@ -580,11 +580,11 @@
 | 0765 | [情侣牵手](https://leetcode.cn/problems/couples-holding-hands/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0765)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0765.md) | 贪心、深度优先搜索、广度优先搜索、并查集、图 | 困难 |
 | 0399 | [除法求值](https://leetcode.cn/problems/evaluate-division/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0399)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0399.md) | 深度优先搜索、广度优先搜索、并查集、图、数组、最短路 | 中等 |
 | 0959 | [由斜杠划分区域](https://leetcode.cn/problems/regions-cut-by-slashes/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0959)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0959.md) | 深度优先搜索、广度优先搜索、并查集、图 | 中等 |
-| 1631 | [最小体力消耗路径](https://leetcode.cn/problems/path-with-minimum-effort/) |  | 深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵、堆（优先队列） | 中等 |
-| 0778 | [水位上升的泳池中游泳](https://leetcode.cn/problems/swim-in-rising-water/) |  | 深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵、堆（优先队列） | 困难 |
+| 1631 | [最小体力消耗路径](https://leetcode.cn/problems/path-with-minimum-effort/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1631)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1631.md) | 深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵、堆（优先队列） | 中等 |
+| 0778 | [水位上升的泳池中游泳](https://leetcode.cn/problems/swim-in-rising-water/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0778)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0778.md) | 深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵、堆（优先队列） | 困难 |
 | 1202 | [交换字符串中的元素](https://leetcode.cn/problems/smallest-string-with-swaps/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1202)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1202.md) | 深度优先搜索、广度优先搜索、并查集、哈希表、字符串 | 中等 |
-| 0947 | [移除最多的同行或同列石头](https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column/) |  | 深度优先搜索、并查集、图 | 中等 |
-| 0803 | [打砖块](https://leetcode.cn/problems/bricks-falling-when-hit/) |  | 并查集、数组、矩阵 | 困难 |
+| 0947 | [移除最多的同行或同列石头](https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0947)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0947.md) | 深度优先搜索、并查集、图 | 中等 |
+| 0803 | [打砖块](https://leetcode.cn/problems/bricks-falling-when-hit/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0803)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0803.md) | 并查集、数组、矩阵 | 困难 |
 | 0128 | [最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0128)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0128.md) | 并查集、数组、哈希表 | 中等 |
 
 ## 04. 基础算法篇：枚举、递归、分治、回溯、贪心、位运算（共 14 天）
