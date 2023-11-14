@@ -457,12 +457,12 @@
 | 0454 | [四数相加 II](https://leetcode.cn/problems/4sum-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0454)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0454.md) | 数组、哈希表 | 中等 |
 | 0041 | [缺失的第一个正数](https://leetcode.cn/problems/first-missing-positive/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0041)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0041.md) | 数组、哈希表 | 困难 |
 | 0128 | [最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0128)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0128.md) | 并查集、数组、哈希表 | 中等 |
-| 0202 | [快乐数](https://leetcode.cn/problems/happy-number/) |  | 哈希表、数学、双指针 | 简单 |
-| 0242 | [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/) |  | 哈希表、字符串、排序 | 简单 |
-| 0205 | [同构字符串](https://leetcode.cn/problems/isomorphic-strings/) |  | 哈希表、字符串 | 简单 |
+| 0202 | [快乐数](https://leetcode.cn/problems/happy-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0202)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0202.md) | 哈希表、数学、双指针 | 简单 |
+| 0242 | [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0242)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0242.md) | 哈希表、字符串、排序 | 简单 |
+| 0205 | [同构字符串](https://leetcode.cn/problems/isomorphic-strings/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0205)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0205.md) | 哈希表、字符串 | 简单 |
 | 0442 | [数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array/) |  | 数组、哈希表 | 中等 |
 | 剑指 Offer 61 | [扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) |  | 数组、排序 | 简单 |
-| 0268 | [丢失的数字](https://leetcode.cn/problems/missing-number/) |  | 位运算、数组、哈希表、数学、二分查找、排序 | 简单 |
+| 0268 | [丢失的数字](https://leetcode.cn/problems/missing-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0268)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0268.md) | 位运算、数组、哈希表、数学、二分查找、排序 | 简单 |
 | 剑指 Offer 03 | [数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) |  | 数组、哈希表、排序 | 简单 |
 | 0451 | [根据字符出现频率排序](https://leetcode.cn/problems/sort-characters-by-frequency/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0451)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0451.md) | 哈希表、字符串、桶排序、计数、排序、堆（优先队列） | 中等 |
 | 0049 | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/) |  | 数组、哈希表、字符串、排序 | 中等 |
@@ -703,7 +703,7 @@
 | 0136 | [只出现一次的数字](https://leetcode.cn/problems/single-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0136)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0136.md) | 位运算、数组 | 简单 |
 | 0137 | [只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0137)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0137.md) | 位运算、数组 | 中等 |
 | 0260 | [只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0260)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0260.md) | 位运算、数组 | 中等 |
-| 0268 | [丢失的数字](https://leetcode.cn/problems/missing-number/) |  | 位运算、数组、哈希表、数学、二分查找、排序 | 简单 |
+| 0268 | [丢失的数字](https://leetcode.cn/problems/missing-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0268)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0268.md) | 位运算、数组、哈希表、数学、二分查找、排序 | 简单 |
 | 1349 | [参加考试的最大学生数](https://leetcode.cn/problems/maximum-students-taking-exam/) |  | 位运算、数组、动态规划、状态压缩、矩阵 | 困难 |
 | 0645 | [错误的集合](https://leetcode.cn/problems/set-mismatch/) |  | 位运算、数组、哈希表、排序 | 简单 |
 | 0078 | [子集](https://leetcode.cn/problems/subsets/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0078)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0078.md) | 位运算、数组、回溯 | 中等 |
