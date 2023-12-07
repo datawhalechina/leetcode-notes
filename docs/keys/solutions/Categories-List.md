@@ -595,7 +595,7 @@
 | 0001 | [两数之和](https://leetcode.cn/problems/two-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0001)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0001.md) | 数组、哈希表 | 简单 |
 | 0204 | [计数质数](https://leetcode.cn/problems/count-primes/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0204)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0204.md) | 数组、数学、枚举、数论 | 中等 |
 | 1925 | [统计平方和三元组的数目](https://leetcode.cn/problems/count-square-sum-triples/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1925)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1925.md) | 数学、枚举 | 简单 |
-| 1450 | [在既定时间做作业的学生人数](https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/) |  | 数组 | 简单 |
+| 1450 | [在既定时间做作业的学生人数](https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1450)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1450.md) | 数组 | 简单 |
 | 1620 | [网络信号最好的坐标](https://leetcode.cn/problems/coordinate-with-maximum-network-quality/) |  | 数组、枚举 | 中等 |
 | 剑指 Offer 57 - II | [和为s的连续正数序列](https://leetcode.cn/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/Offer-57-II)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/Offer-57-II.md) | 数学、双指针、枚举 | 简单 |
 | 0800 | [相似 RGB 颜色](https://leetcode.cn/problems/similar-rgb-color/) |  | 数学、字符串、枚举 | 简单 |
