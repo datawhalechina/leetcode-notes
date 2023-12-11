@@ -597,10 +597,12 @@
 | 1925 | [统计平方和三元组的数目](https://leetcode.cn/problems/count-square-sum-triples/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1925)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1925.md) | 数学、枚举 | 简单 |
 | 1450 | [在既定时间做作业的学生人数](https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1450)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1450.md) | 数组 | 简单 |
 | 1620 | [网络信号最好的坐标](https://leetcode.cn/problems/coordinate-with-maximum-network-quality/) |  | 数组、枚举 | 中等 |
+| 2427 | [公因子的数目](https://leetcode.cn/problems/number-of-common-factors/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/2427)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/2427.md) | 数学、枚举、数论 | 简单 |
 | 剑指 Offer 57 - II | [和为s的连续正数序列](https://leetcode.cn/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/Offer-57-II)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/Offer-57-II.md) | 数学、双指针、枚举 | 简单 |
-| 0800 | [相似 RGB 颜色](https://leetcode.cn/problems/similar-rgb-color/) |  | 数学、字符串、枚举 | 简单 |
+| 2249 | [统计圆内格点数目](https://leetcode.cn/problems/count-lattice-points-inside-a-circle/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/2249)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/2249.md) | 几何、数组、哈希表、数学、枚举 | 中等 |
+| 0800 | [相似 RGB 颜色](https://leetcode.cn/problems/similar-rgb-color/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0800)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0800.md) | 数学、字符串、枚举 | 简单 |
 | 0221 | [最大正方形](https://leetcode.cn/problems/maximal-square/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0221)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0221.md) | 数组、动态规划、矩阵 | 中等 |
-| 0560 | [和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) |  | 数组、哈希表、前缀和 | 中等 |
+| 0560 | [和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0560)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0560.md) | 数组、哈希表、前缀和 | 中等 |
 
 ### 04.02.04 递归算法题目
 
@@ -608,8 +610,8 @@
 | :------ | :------ | :------ | :------ | :------ |
 | 0344 | [反转字符串](https://leetcode.cn/problems/reverse-string/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0344)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0344.md) | 双指针、字符串 | 简单 |
 | 0024 | [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0024)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0024.md) | 递归、链表 | 中等 |
-| 0118 | [杨辉三角](https://leetcode.cn/problems/pascals-triangle/) |  | 数组、动态规划 | 简单 |
-| 0119 | [杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/) |  | 数组、动态规划 | 简单 |
+| 0118 | [杨辉三角](https://leetcode.cn/problems/pascals-triangle/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0118)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0118.md) | 数组、动态规划 | 简单 |
+| 0119 | [杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0119)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0119.md) | 数组、动态规划 | 简单 |
 | 0206 | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0206)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0206.md) | 递归、链表 | 简单 |
 | 0092 | [反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0092)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0092.md) | 链表 | 中等 |
 | 0021 | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0021)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0021.md) | 递归、链表 | 简单 |
@@ -619,9 +621,9 @@
 | 0124 | [二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0124)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0124.md) | 树、深度优先搜索、动态规划、二叉树 | 困难 |
 | 0226 | [翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0226)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0226.md) | 树、深度优先搜索、广度优先搜索、二叉树 | 简单 |
 | 0050 | [Pow(x, n)](https://leetcode.cn/problems/powx-n/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0050)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0050.md) | 递归、数学 | 中等 |
-| 0779 | [第K个语法符号](https://leetcode.cn/problems/k-th-symbol-in-grammar/) |  | 位运算、递归、数学 | 中等 |
-| 0095 | [不同的二叉搜索树 II](https://leetcode.cn/problems/unique-binary-search-trees-ii/) |  | 树、二叉搜索树、动态规划、回溯、二叉树 | 中等 |
-| 剑指 Offer 62 | [圆圈中最后剩下的数字](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) |  | 递归、数学 | 简单 |
+| 0779 | [第K个语法符号](https://leetcode.cn/problems/k-th-symbol-in-grammar/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0779)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0779.md) | 位运算、递归、数学 | 中等 |
+| 0095 | [不同的二叉搜索树 II](https://leetcode.cn/problems/unique-binary-search-trees-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0095)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0095.md) | 树、二叉搜索树、动态规划、回溯、二叉树 | 中等 |
+| 剑指 Offer 62 | [圆圈中最后剩下的数字](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/Offer-62)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/Offer-62.md) | 递归、数学 | 简单 |
 
 ### 04.02.08 分治算法题目
 
@@ -801,8 +803,8 @@
 
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
-| 0118 | [杨辉三角](https://leetcode.cn/problems/pascals-triangle/) |  | 数组、动态规划 | 简单 |
-| 0119 | [杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/) |  | 数组、动态规划 | 简单 |
+| 0118 | [杨辉三角](https://leetcode.cn/problems/pascals-triangle/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0118)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0118.md) | 数组、动态规划 | 简单 |
+| 0119 | [杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0119)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0119.md) | 数组、动态规划 | 简单 |
 | 0120 | [三角形最小路径和](https://leetcode.cn/problems/triangle/) |  | 数组、动态规划 | 中等 |
 | 0064 | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0064)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0064.md) | 数组、动态规划、矩阵 | 中等 |
 | 0174 | [地下城游戏](https://leetcode.cn/problems/dungeon-game/) |  | 数组、动态规划、矩阵 | 困难 |
