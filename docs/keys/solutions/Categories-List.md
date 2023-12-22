@@ -407,7 +407,7 @@
 | 0286 | [墙与门](https://leetcode.cn/problems/walls-and-gates/) |  | 广度优先搜索、数组、矩阵 | 中等 |
 | 0200 | [岛屿数量](https://leetcode.cn/problems/number-of-islands/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0200)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0200.md) | 深度优先搜索、广度优先搜索、并查集、数组、矩阵 | 中等 |
 | 0752 | [打开转盘锁](https://leetcode.cn/problems/open-the-lock/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0752)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0752.md) | 广度优先搜索、数组、哈希表、字符串 | 中等 |
-| 0279 | [完全平方数](https://leetcode.cn/problems/perfect-squares/) |  | 广度优先搜索、数学、动态规划 | 中等 |
+| 0279 | [完全平方数](https://leetcode.cn/problems/perfect-squares/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0279)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0279.md) | 广度优先搜索、数学、动态规划 | 中等 |
 | 0133 | [克隆图](https://leetcode.cn/problems/clone-graph/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0133)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0133.md) | 深度优先搜索、广度优先搜索、图、哈希表 | 中等 |
 | 0733 | [图像渲染](https://leetcode.cn/problems/flood-fill/) |  | 深度优先搜索、广度优先搜索、数组、矩阵 | 简单 |
 | 0542 | [01 矩阵](https://leetcode.cn/problems/01-matrix/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0542)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0542.md) | 广度优先搜索、数组、动态规划、矩阵 | 中等 |
@@ -706,7 +706,7 @@
 | 0137 | [只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0137)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0137.md) | 位运算、数组 | 中等 |
 | 0260 | [只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0260)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0260.md) | 位运算、数组 | 中等 |
 | 0268 | [丢失的数字](https://leetcode.cn/problems/missing-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0268)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0268.md) | 位运算、数组、哈希表、数学、二分查找、排序 | 简单 |
-| 1349 | [参加考试的最大学生数](https://leetcode.cn/problems/maximum-students-taking-exam/) |  | 位运算、数组、动态规划、状态压缩、矩阵 | 困难 |
+| 1349 | [参加考试的最大学生数](https://leetcode.cn/problems/maximum-students-taking-exam/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1349)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1349.md) | 位运算、数组、动态规划、状态压缩、矩阵 | 困难 |
 | 0645 | [错误的集合](https://leetcode.cn/problems/set-mismatch/) |  | 位运算、数组、哈希表、排序 | 简单 |
 | 0078 | [子集](https://leetcode.cn/problems/subsets/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0078)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0078.md) | 位运算、数组、回溯 | 中等 |
 | 0090 | [子集 II](https://leetcode.cn/problems/subsets-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0090)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0090.md) | 位运算、数组、回溯 | 中等 |
@@ -726,11 +726,11 @@
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
 | 1137 | [第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1137)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1137.md) | 记忆化搜索、数学、动态规划 | 简单 |
-| 0375 | [猜数字大小 II](https://leetcode.cn/problems/guess-number-higher-or-lower-ii/) |  | 数学、动态规划、博弈 | 中等 |
+| 0375 | [猜数字大小 II](https://leetcode.cn/problems/guess-number-higher-or-lower-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0375)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0375.md) | 数学、动态规划、博弈 | 中等 |
 | 0494 | [目标和](https://leetcode.cn/problems/target-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0494)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0494.md) | 数组、动态规划、回溯 | 中等 |
 | 0576 | [出界的路径数](https://leetcode.cn/problems/out-of-boundary-paths/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0576)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0576.md) | 动态规划 | 中等 |
 | 0087 | [扰乱字符串](https://leetcode.cn/problems/scramble-string/) |  | 字符串、动态规划 | 困难 |
-| 0403 | [青蛙过河](https://leetcode.cn/problems/frog-jump/) |  | 数组、动态规划 | 困难 |
+| 0403 | [青蛙过河](https://leetcode.cn/problems/frog-jump/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0403)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0403.md) | 数组、动态规划 | 困难 |
 | 0552 | [学生出勤记录 II](https://leetcode.cn/problems/student-attendance-record-ii/) |  | 动态规划 | 困难 |
 | 0913 | [猫和老鼠](https://leetcode.cn/problems/cat-and-mouse/) |  | 图、拓扑排序、记忆化搜索、数学、动态规划、博弈 | 困难 |
 | 0329 | [矩阵中的最长递增路径](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/) |  | 深度优先搜索、广度优先搜索、图、拓扑排序、记忆化搜索、数组、动态规划、矩阵 | 困难 |
@@ -757,7 +757,7 @@
 | 0368 | [最大整除子集](https://leetcode.cn/problems/largest-divisible-subset/) |  | 数组、数学、动态规划、排序 | 中等 |
 | 0032 | [最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0032)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0032.md) | 栈、字符串、动态规划 | 困难 |
 | 0413 | [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/) |  | 数组、动态规划 | 中等 |
-| 0091 | [解码方法](https://leetcode.cn/problems/decode-ways/) |  | 字符串、动态规划 | 中等 |
+| 0091 | [解码方法](https://leetcode.cn/problems/decode-ways/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0091)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0091.md) | 字符串、动态规划 | 中等 |
 | 0639 | [解码方法 II](https://leetcode.cn/problems/decode-ways-ii/) |  | 字符串、动态规划 | 困难 |
 | 0132 | [分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/) |  | 字符串、动态规划 | 困难 |
 | 1220 | [统计元音字母序列的数目](https://leetcode.cn/problems/count-vowels-permutation/) |  | 动态规划 | 困难 |
@@ -771,7 +771,7 @@
 | 0265 | [粉刷房子 II](https://leetcode.cn/problems/paint-house-ii/) |  | 数组、动态规划 | 困难 |
 | 1473 | [粉刷房子 III](https://leetcode.cn/problems/paint-house-iii/) |  | 数组、动态规划 | 困难 |
 | 0975 | [奇偶跳](https://leetcode.cn/problems/odd-even-jump/) |  | 栈、数组、动态规划、有序集合、单调栈 | 困难 |
-| 0403 | [青蛙过河](https://leetcode.cn/problems/frog-jump/) |  | 数组、动态规划 | 困难 |
+| 0403 | [青蛙过河](https://leetcode.cn/problems/frog-jump/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0403)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0403.md) | 数组、动态规划 | 困难 |
 | 1478 | [安排邮筒](https://leetcode.cn/problems/allocate-mailboxes/) |  | 数组、数学、动态规划、排序 | 困难 |
 | 1230 | [抛掷硬币](https://leetcode.cn/problems/toss-strange-coins/) |  | 数学、动态规划、概率与统计 | 中等 |
 | 0410 | [分割数组的最大值](https://leetcode.cn/problems/split-array-largest-sum/) |  | 贪心、数组、二分查找、动态规划、前缀和 | 困难 |
@@ -805,7 +805,7 @@
 | :------ | :------ | :------ | :------ | :------ |
 | 0118 | [杨辉三角](https://leetcode.cn/problems/pascals-triangle/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0118)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0118.md) | 数组、动态规划 | 简单 |
 | 0119 | [杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0119)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0119.md) | 数组、动态规划 | 简单 |
-| 0120 | [三角形最小路径和](https://leetcode.cn/problems/triangle/) |  | 数组、动态规划 | 中等 |
+| 0120 | [三角形最小路径和](https://leetcode.cn/problems/triangle/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0120)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0120.md) | 数组、动态规划 | 中等 |
 | 0064 | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0064)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0064.md) | 数组、动态规划、矩阵 | 中等 |
 | 0174 | [地下城游戏](https://leetcode.cn/problems/dungeon-game/) |  | 数组、动态规划、矩阵 | 困难 |
 | 0221 | [最大正方形](https://leetcode.cn/problems/maximal-square/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0221)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0221.md) | 数组、动态规划、矩阵 | 中等 |
@@ -823,7 +823,7 @@
 | 1137 | [第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1137)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1137.md) | 记忆化搜索、数学、动态规划 | 简单 |
 | 0650 | [只有两个键的键盘](https://leetcode.cn/problems/2-keys-keyboard/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0650)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0650.md) | 数学、动态规划 | 中等 |
 | 0264 | [丑数 II](https://leetcode.cn/problems/ugly-number-ii/) |  | 哈希表、数学、动态规划、堆（优先队列） | 中等 |
-| 0279 | [完全平方数](https://leetcode.cn/problems/perfect-squares/) |  | 广度优先搜索、数学、动态规划 | 中等 |
+| 0279 | [完全平方数](https://leetcode.cn/problems/perfect-squares/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0279)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0279.md) | 广度优先搜索、数学、动态规划 | 中等 |
 | 0343 | [整数拆分](https://leetcode.cn/problems/integer-break/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0343)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0343.md) | 数学、动态规划 | 中等 |
 
 ### 背包问题题目
@@ -840,13 +840,13 @@
 
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
-| 0279 | [完全平方数](https://leetcode.cn/problems/perfect-squares/) |  | 广度优先搜索、数学、动态规划 | 中等 |
+| 0279 | [完全平方数](https://leetcode.cn/problems/perfect-squares/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0279)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0279.md) | 广度优先搜索、数学、动态规划 | 中等 |
 | 0322 | [零钱兑换](https://leetcode.cn/problems/coin-change/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0322)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0322.md) | 广度优先搜索、数组、动态规划 | 中等 |
 | 0518 | [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0518)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0518.md) | 数组、动态规划 | 中等 |
 | 0139 | [单词拆分](https://leetcode.cn/problems/word-break/) |  | 字典树、记忆化搜索、数组、哈希表、字符串、动态规划 | 中等 |
 | 0377 | [组合总和 Ⅳ](https://leetcode.cn/problems/combination-sum-iv/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0377)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0377.md) | 数组、动态规划 | 中等 |
 | 0638 | [大礼包](https://leetcode.cn/problems/shopping-offers/) |  | 位运算、记忆化搜索、数组、动态规划、回溯、状态压缩 | 中等 |
-| 1449 | [数位成本和为目标值的最大数字](https://leetcode.cn/problems/form-largest-integer-with-digits-that-add-up-to-target/) |  | 数组、动态规划 | 困难 |
+| 1449 | [数位成本和为目标值的最大数字](https://leetcode.cn/problems/form-largest-integer-with-digits-that-add-up-to-target/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1449)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1449.md) | 数组、动态规划 | 困难 |
 
 #### 多重背包问题
 
@@ -855,7 +855,7 @@
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
 | 1155 | [掷骰子等于目标和的方法数](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1155)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1155.md) | 动态规划 | 中等 |
-| 2585 | [获得分数的方法数](https://leetcode.cn/problems/number-of-ways-to-earn-points/) |  | 数组、动态规划 | 困难 |
+| 2585 | [获得分数的方法数](https://leetcode.cn/problems/number-of-ways-to-earn-points/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/2585)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/2585.md) | 数组、动态规划 | 困难 |
 
 #### 多维背包问题
 
@@ -869,18 +869,18 @@
 
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
-| 0486 | [预测赢家](https://leetcode.cn/problems/predict-the-winner/) |  | 递归、数组、数学、动态规划、博弈 | 中等 |
-| 0312 | [戳气球](https://leetcode.cn/problems/burst-balloons/) |  | 数组、动态规划 | 困难 |
+| 0486 | [预测赢家](https://leetcode.cn/problems/predict-the-winner/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0486)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0486.md) | 递归、数组、数学、动态规划、博弈 | 中等 |
+| 0312 | [戳气球](https://leetcode.cn/problems/burst-balloons/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0312)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0312.md) | 数组、动态规划 | 困难 |
 | 0877 | [石子游戏](https://leetcode.cn/problems/stone-game/) |  | 数组、数学、动态规划、博弈 | 中等 |
-| 1000 | [合并石头的最低成本](https://leetcode.cn/problems/minimum-cost-to-merge-stones/) |  | 数组、动态规划、前缀和 | 困难 |
-| 1547 | [切棍子的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/) |  | 数组、动态规划、排序 | 困难 |
+| 1000 | [合并石头的最低成本](https://leetcode.cn/problems/minimum-cost-to-merge-stones/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1000)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1000.md) | 数组、动态规划、前缀和 | 困难 |
+| 1547 | [切棍子的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1547)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1547.md) | 数组、动态规划、排序 | 困难 |
 | 0664 | [奇怪的打印机](https://leetcode.cn/problems/strange-printer/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0664)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0664.md) | 字符串、动态规划 | 困难 |
-| 1039 | [多边形三角剖分的最低得分](https://leetcode.cn/problems/minimum-score-triangulation-of-polygon/) |  | 数组、动态规划 | 中等 |
-| 0546 | [移除盒子](https://leetcode.cn/problems/remove-boxes/) |  | 记忆化搜索、数组、动态规划 | 困难 |
-| 0375 | [猜数字大小 II](https://leetcode.cn/problems/guess-number-higher-or-lower-ii/) |  | 数学、动态规划、博弈 | 中等 |
+| 1039 | [多边形三角剖分的最低得分](https://leetcode.cn/problems/minimum-score-triangulation-of-polygon/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1039)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1039.md) | 数组、动态规划 | 中等 |
+| 0546 | [移除盒子](https://leetcode.cn/problems/remove-boxes/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0546)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0546.md) | 记忆化搜索、数组、动态规划 | 困难 |
+| 0375 | [猜数字大小 II](https://leetcode.cn/problems/guess-number-higher-or-lower-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0375)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0375.md) | 数学、动态规划、博弈 | 中等 |
 | 0678 | [有效的括号字符串](https://leetcode.cn/problems/valid-parenthesis-string/) |  | 栈、贪心、字符串、动态规划 | 中等 |
 | 0005 | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0005)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0005.md) | 字符串、动态规划 | 中等 |
-| 0516 | [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/) |  | 字符串、动态规划 | 中等 |
+| 0516 | [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0516)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0516.md) | 字符串、动态规划 | 中等 |
 | 0730 | [统计不同回文子序列](https://leetcode.cn/problems/count-different-palindromic-subsequences/) |  | 字符串、动态规划 | 困难 |
 | 2104 | [子数组范围和](https://leetcode.cn/problems/sum-of-subarray-ranges/) |  | 栈、数组、单调栈 | 中等 |
 
@@ -892,13 +892,13 @@
 | :------ | :------ | :------ | :------ | :------ |
 | 0543 | [二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0543)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0543.md) | 树、深度优先搜索、二叉树 | 简单 |
 | 0124 | [二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0124)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0124.md) | 树、深度优先搜索、动态规划、二叉树 | 困难 |
-| 1245 | [树的直径](https://leetcode.cn/problems/tree-diameter/) |  | 树、深度优先搜索、广度优先搜索、图、拓扑排序 | 中等 |
-| 2246 | [相邻字符不同的最长路径](https://leetcode.cn/problems/longest-path-with-different-adjacent-characters/) |  | 树、深度优先搜索、图、拓扑排序、数组、字符串 | 困难 |
-| 0687 | [最长同值路径](https://leetcode.cn/problems/longest-univalue-path/) |  | 树、深度优先搜索、二叉树 | 中等 |
+| 1245 | [树的直径](https://leetcode.cn/problems/tree-diameter/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1245)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1245.md) | 树、深度优先搜索、广度优先搜索、图、拓扑排序 | 中等 |
+| 2246 | [相邻字符不同的最长路径](https://leetcode.cn/problems/longest-path-with-different-adjacent-characters/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/2246)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/2246.md) | 树、深度优先搜索、图、拓扑排序、数组、字符串 | 困难 |
+| 0687 | [最长同值路径](https://leetcode.cn/problems/longest-univalue-path/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0687)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0687.md) | 树、深度优先搜索、二叉树 | 中等 |
 | 0337 | [打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/) |  | 树、深度优先搜索、动态规划、二叉树 | 中等 |
 | 0333 | [最大 BST 子树](https://leetcode.cn/problems/largest-bst-subtree/) |  | 树、深度优先搜索、二叉搜索树、动态规划、二叉树 | 中等 |
-| 1617 | [统计子树中城市之间最大距离](https://leetcode.cn/problems/count-subtrees-with-max-distance-between-cities/) |  | 位运算、树、动态规划、状态压缩、枚举 | 困难 |
-| 2538 | [最大价值和与最小价值和的差值](https://leetcode.cn/problems/difference-between-maximum-and-minimum-price-sum/) |  | 树、深度优先搜索、数组、动态规划 | 困难 |
+| 1617 | [统计子树中城市之间最大距离](https://leetcode.cn/problems/count-subtrees-with-max-distance-between-cities/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1617)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1617.md) | 位运算、树、动态规划、状态压缩、枚举 | 困难 |
+| 2538 | [最大价值和与最小价值和的差值](https://leetcode.cn/problems/difference-between-maximum-and-minimum-price-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/2538)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/2538.md) | 树、深度优先搜索、数组、动态规划 | 困难 |
 | 1569 | [将子数组重新排序得到同一个二叉搜索树的方案数](https://leetcode.cn/problems/number-of-ways-to-reorder-array-to-get-same-bst/) |  | 树、并查集、二叉搜索树、记忆化搜索、数组、数学、分治、动态规划、二叉树、组合数学 | 困难 |
 | 1372 | [二叉树中的最长交错路径](https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree/) |  | 树、深度优先搜索、动态规划、二叉树 | 中等 |
 | 1373 | [二叉搜索子树的最大键值和](https://leetcode.cn/problems/maximum-sum-bst-in-binary-tree/) |  | 树、深度优先搜索、二叉搜索树、动态规划、二叉树 | 困难 |
@@ -910,8 +910,8 @@
 
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
-| 0310 | [最小高度树](https://leetcode.cn/problems/minimum-height-trees/) |  | 深度优先搜索、广度优先搜索、图、拓扑排序 | 中等 |
-| 0834 | [树中距离之和](https://leetcode.cn/problems/sum-of-distances-in-tree/) |  | 树、深度优先搜索、图、动态规划 | 困难 |
+| 0310 | [最小高度树](https://leetcode.cn/problems/minimum-height-trees/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0310)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0310.md) | 深度优先搜索、广度优先搜索、图、拓扑排序 | 中等 |
+| 0834 | [树中距离之和](https://leetcode.cn/problems/sum-of-distances-in-tree/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0834)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0834.md) | 树、深度优先搜索、图、动态规划 | 困难 |
 | 2581 | [统计可能的树根数目](https://leetcode.cn/problems/count-number-of-possible-root-nodes/) |  | 树、深度优先搜索、哈希表、动态规划 | 困难 |
 
 ### 05.05.03 状态压缩 DP 题目
@@ -919,7 +919,7 @@
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
 | 1879 | [两个数组最小的异或值之和](https://leetcode.cn/problems/minimum-xor-sum-of-two-arrays/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1879)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1879.md) | 位运算、数组、动态规划、状态压缩 | 困难 |
-| 2172 | [数组的最大与和](https://leetcode.cn/problems/maximum-and-sum-of-array/) |  | 位运算、数组、动态规划、状态压缩 | 困难 |
+| 2172 | [数组的最大与和](https://leetcode.cn/problems/maximum-and-sum-of-array/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/2172)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/2172.md) | 位运算、数组、动态规划、状态压缩 | 困难 |
 | 1947 | [最大兼容性评分和](https://leetcode.cn/problems/maximum-compatibility-score-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1947)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1947.md) | 位运算、数组、动态规划、回溯、状态压缩 | 中等 |
 | 1595 | [连通两组点的最小成本](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/) |  | 位运算、数组、动态规划、状态压缩、矩阵 | 困难 |
 | 1494 | [并行课程 II](https://leetcode.cn/problems/parallel-courses-ii/) |  | 位运算、图、动态规划、状态压缩 | 困难 |
@@ -929,16 +929,16 @@
 | 1799 | [N 次操作后的最大分数和](https://leetcode.cn/problems/maximize-score-after-n-operations/) |  | 位运算、数组、数学、动态规划、回溯、状态压缩、数论 | 困难 |
 | 1681 | [最小不兼容性](https://leetcode.cn/problems/minimum-incompatibility/) |  | 位运算、数组、动态规划、状态压缩 | 困难 |
 | 0526 | [优美的排列](https://leetcode.cn/problems/beautiful-arrangement/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0526)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0526.md) | 位运算、数组、动态规划、回溯、状态压缩 | 中等 |
-| 0351 | [安卓系统手势解锁](https://leetcode.cn/problems/android-unlock-patterns/) |  | 动态规划、回溯 | 中等 |
-| 0464 | [我能赢吗](https://leetcode.cn/problems/can-i-win/) |  | 位运算、记忆化搜索、数学、动态规划、状态压缩、博弈 | 中等 |
-| 0847 | [访问所有节点的最短路径](https://leetcode.cn/problems/shortest-path-visiting-all-nodes/) |  | 位运算、广度优先搜索、图、动态规划、状态压缩 | 困难 |
+| 0351 | [安卓系统手势解锁](https://leetcode.cn/problems/android-unlock-patterns/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0351)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0351.md) | 动态规划、回溯 | 中等 |
+| 0464 | [我能赢吗](https://leetcode.cn/problems/can-i-win/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0464)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0464.md) | 位运算、记忆化搜索、数学、动态规划、状态压缩、博弈 | 中等 |
+| 0847 | [访问所有节点的最短路径](https://leetcode.cn/problems/shortest-path-visiting-all-nodes/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0847)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0847.md) | 位运算、广度优先搜索、图、动态规划、状态压缩 | 困难 |
 | 0638 | [大礼包](https://leetcode.cn/problems/shopping-offers/) |  | 位运算、记忆化搜索、数组、动态规划、回溯、状态压缩 | 中等 |
-| 1994 | [好子集的数目](https://leetcode.cn/problems/the-number-of-good-subsets/) |  | 位运算、数组、数学、动态规划、状态压缩 | 困难 |
-| 1349 | [参加考试的最大学生数](https://leetcode.cn/problems/maximum-students-taking-exam/) |  | 位运算、数组、动态规划、状态压缩、矩阵 | 困难 |
-| 0698 | [划分为k个相等的子集](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/) |  | 位运算、记忆化搜索、数组、动态规划、回溯、状态压缩 | 中等 |
+| 1994 | [好子集的数目](https://leetcode.cn/problems/the-number-of-good-subsets/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1994)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1994.md) | 位运算、数组、数学、动态规划、状态压缩 | 困难 |
+| 1349 | [参加考试的最大学生数](https://leetcode.cn/problems/maximum-students-taking-exam/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1349)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1349.md) | 位运算、数组、动态规划、状态压缩、矩阵 | 困难 |
+| 0698 | [划分为k个相等的子集](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0698)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0698.md) | 位运算、记忆化搜索、数组、动态规划、回溯、状态压缩 | 中等 |
 | 0943 | [最短超级串](https://leetcode.cn/problems/find-the-shortest-superstring/) |  | 位运算、数组、字符串、动态规划、状态压缩 | 困难 |
-| 0691 | [贴纸拼词](https://leetcode.cn/problems/stickers-to-spell-word/) |  | 位运算、数组、字符串、动态规划、回溯、状态压缩 | 困难 |
-| 0982 | [按位与为零的三元组](https://leetcode.cn/problems/triples-with-bitwise-and-equal-to-zero/) |  | 位运算、数组、哈希表 | 困难 |
+| 0691 | [贴纸拼词](https://leetcode.cn/problems/stickers-to-spell-word/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0691)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0691.md) | 位运算、数组、字符串、动态规划、回溯、状态压缩 | 困难 |
+| 0982 | [按位与为零的三元组](https://leetcode.cn/problems/triples-with-bitwise-and-equal-to-zero/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0982)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0982.md) | 位运算、数组、哈希表 | 困难 |
 
 ### 05.05.06 计数 DP 题目
 
@@ -959,17 +959,17 @@
 
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
-| 2376 | [统计特殊整数](https://leetcode.cn/problems/count-special-integers/) |  | 数学、动态规划 | 困难 |
+| 2376 | [统计特殊整数](https://leetcode.cn/problems/count-special-integers/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/2376)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/2376.md) | 数学、动态规划 | 困难 |
 | 0357 | [统计各位数字都不同的数字个数](https://leetcode.cn/problems/count-numbers-with-unique-digits/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0357)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0357.md) | 数学、动态规划、回溯 | 中等 |
-| 1012 | [至少有 1 位重复的数字](https://leetcode.cn/problems/numbers-with-repeated-digits/) |  | 数学、动态规划 | 困难 |
-| 0902 | [最大为 N 的数字组合](https://leetcode.cn/problems/numbers-at-most-n-given-digit-set/) |  | 数组、数学、字符串、二分查找、动态规划 | 困难 |
+| 1012 | [至少有 1 位重复的数字](https://leetcode.cn/problems/numbers-with-repeated-digits/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1012)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1012.md) | 数学、动态规划 | 困难 |
+| 0902 | [最大为 N 的数字组合](https://leetcode.cn/problems/numbers-at-most-n-given-digit-set/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0902)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0902.md) | 数组、数学、字符串、二分查找、动态规划 | 困难 |
 | 0788 | [旋转数字](https://leetcode.cn/problems/rotated-digits/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0788)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0788.md) | 数学、动态规划 | 中等 |
-| 0600 | [不含连续1的非负整数](https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones/) |  | 动态规划 | 困难 |
-| 0233 | [数字 1 的个数](https://leetcode.cn/problems/number-of-digit-one/) |  | 递归、数学、动态规划 | 困难 |
-| 2719 | [统计整数数目](https://leetcode.cn/problems/count-of-integers/) |  | 数学、字符串、动态规划 | 困难 |
+| 0600 | [不含连续1的非负整数](https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0600)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0600.md) | 动态规划 | 困难 |
+| 0233 | [数字 1 的个数](https://leetcode.cn/problems/number-of-digit-one/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0233)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0233.md) | 递归、数学、动态规划 | 困难 |
+| 2719 | [统计整数数目](https://leetcode.cn/problems/count-of-integers/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/2719)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/2719.md) | 数学、字符串、动态规划 | 困难 |
 | 0248 | [中心对称数 III](https://leetcode.cn/problems/strobogrammatic-number-iii/) |  | 递归、数组、字符串 | 困难 |
 | 1088 | [易混淆数 II](https://leetcode.cn/problems/confusing-number-ii/) |  | 数学、回溯 | 困难 |
 | 1067 | [范围内的数字计数](https://leetcode.cn/problems/digit-count-in-range/) |  | 数学、动态规划 | 困难 |
-| 1742 | [盒子中小球的最大数量](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/) |  | 哈希表、数学、计数 | 简单 |
+| 1742 | [盒子中小球的最大数量](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1742)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1742.md) | 哈希表、数学、计数 | 简单 |
 | 面试题 17.06 | [2出现的次数](https://leetcode.cn/problems/number-of-2s-in-range-lcci/) |  | 递归、数学、动态规划 | 困难 |
 
