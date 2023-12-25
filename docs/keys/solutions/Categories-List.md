@@ -693,15 +693,15 @@
 
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
-| 0504 | [七进制数](https://leetcode.cn/problems/base-7/) |  | 数学 | 简单 |
-| 0405 | [数字转换为十六进制数](https://leetcode.cn/problems/convert-a-number-to-hexadecimal/) |  | 位运算、数学 | 简单 |
+| 0504 | [七进制数](https://leetcode.cn/problems/base-7/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0504)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0504.md) | 数学 | 简单 |
+| 0405 | [数字转换为十六进制数](https://leetcode.cn/problems/convert-a-number-to-hexadecimal/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0405)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0405.md) | 位运算、数学 | 简单 |
 | 0190 | [颠倒二进制位](https://leetcode.cn/problems/reverse-bits/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0190)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0190.md) | 位运算、分治 | 简单 |
-| 1009 | [十进制整数的反码](https://leetcode.cn/problems/complement-of-base-10-integer/) |  | 位运算 | 简单 |
+| 1009 | [十进制整数的反码](https://leetcode.cn/problems/complement-of-base-10-integer/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1009)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1009.md) | 位运算 | 简单 |
 | 0191 | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0191)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0191.md) | 位运算、分治 | 简单 |
-| 0371 | [两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) |  | 位运算、数学 | 中等 |
-| 0089 | [格雷编码](https://leetcode.cn/problems/gray-code/) |  | 位运算、数学、回溯 | 中等 |
+| 0371 | [两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0371)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0371.md) | 位运算、数学 | 中等 |
+| 0089 | [格雷编码](https://leetcode.cn/problems/gray-code/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0089)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0089.md) | 位运算、数学、回溯 | 中等 |
 | 0201 | [数字范围按位与](https://leetcode.cn/problems/bitwise-and-of-numbers-range/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0201)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0201.md) | 位运算 | 中等 |
-| 0338 | [比特位计数](https://leetcode.cn/problems/counting-bits/) |  | 位运算、动态规划 | 简单 |
+| 0338 | [比特位计数](https://leetcode.cn/problems/counting-bits/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0338)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0338.md) | 位运算、动态规划 | 简单 |
 | 0136 | [只出现一次的数字](https://leetcode.cn/problems/single-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0136)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0136.md) | 位运算、数组 | 简单 |
 | 0137 | [只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0137)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0137.md) | 位运算、数组 | 中等 |
 | 0260 | [只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0260)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0260.md) | 位运算、数组 | 中等 |
@@ -761,7 +761,7 @@
 | 0639 | [解码方法 II](https://leetcode.cn/problems/decode-ways-ii/) |  | 字符串、动态规划 | 困难 |
 | 0132 | [分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/) |  | 字符串、动态规划 | 困难 |
 | 1220 | [统计元音字母序列的数目](https://leetcode.cn/problems/count-vowels-permutation/) |  | 动态规划 | 困难 |
-| 0338 | [比特位计数](https://leetcode.cn/problems/counting-bits/) |  | 位运算、动态规划 | 简单 |
+| 0338 | [比特位计数](https://leetcode.cn/problems/counting-bits/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0338)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0338.md) | 位运算、动态规划 | 简单 |
 | 0801 | [使序列递增的最小交换次数](https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing/) |  | 数组、动态规划 | 困难 |
 | 0871 | [最低加油次数](https://leetcode.cn/problems/minimum-number-of-refueling-stops/) |  | 贪心、数组、动态规划、堆（优先队列） | 困难 |
 | 0045 | [跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0045)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0045.md) | 贪心、数组、动态规划 | 中等 |
