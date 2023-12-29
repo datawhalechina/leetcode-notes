@@ -174,20 +174,19 @@
 | 0345 | [反转字符串中的元音字母](https://leetcode.cn/problems/reverse-vowels-of-a-string/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0345)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0345.md) | 双指针、字符串 | 简单 |
 | 0125 | [验证回文串](https://leetcode.cn/problems/valid-palindrome/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0125)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0125.md) | 双指针、字符串 | 简单 |
 | 0011 | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0011)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0011.md) | 贪心、数组、双指针 | 中等 |
-| 0611 | [有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/) |  | 贪心、数组、双指针、二分查找、排序 | 中等 |
+| 0611 | [有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0611)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0611.md) | 贪心、数组、双指针、二分查找、排序 | 中等 |
 | 0015 | [三数之和](https://leetcode.cn/problems/3sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0015)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0015.md) | 数组、双指针、排序 | 中等 |
-| 0016 | [最接近的三数之和](https://leetcode.cn/problems/3sum-closest/) |  | 数组、双指针、排序 | 中等 |
+| 0016 | [最接近的三数之和](https://leetcode.cn/problems/3sum-closest/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0016)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0016.md) | 数组、双指针、排序 | 中等 |
 | 0018 | [四数之和](https://leetcode.cn/problems/4sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0018)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0018.md) | 数组、双指针、排序 | 中等 |
 | 0259 | [较小的三数之和](https://leetcode.cn/problems/3sum-smaller/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0259)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0259.md) | 数组、双指针、二分查找、排序 | 中等 |
 | 0658 | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0658)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0658.md) | 数组、双指针、二分查找、排序、滑动窗口、堆（优先队列） | 中等 |
-| 1099 | [小于 K 的两数之和](https://leetcode.cn/problems/two-sum-less-than-k/) |  | 数组、双指针、二分查找、排序 | 简单 |
+| 1099 | [小于 K 的两数之和](https://leetcode.cn/problems/two-sum-less-than-k/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1099)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1099.md) | 数组、双指针、二分查找、排序 | 简单 |
 | 0075 | [颜色分类](https://leetcode.cn/problems/sort-colors/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0075)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0075.md) | 数组、双指针、排序 | 中等 |
-| 0360 | [有序转化数组](https://leetcode.cn/problems/sort-transformed-array/) |  | 数组、数学、双指针、排序 | 中等 |
-| 0977 | [有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/) |  | 数组、双指针、排序 | 简单 |
+| 0360 | [有序转化数组](https://leetcode.cn/problems/sort-transformed-array/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0360)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0360.md) | 数组、数学、双指针、排序 | 中等 |
+| 0977 | [有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0977)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0977.md) | 数组、双指针、排序 | 简单 |
 | 0881 | [救生艇](https://leetcode.cn/problems/boats-to-save-people/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0881)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0881.md) | 贪心、数组、双指针、排序 | 中等 |
 | 0042 | [接雨水](https://leetcode.cn/problems/trapping-rain-water/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0042)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0042.md) | 栈、数组、双指针、动态规划、单调栈 | 困难 |
-| 剑指 Offer 21 | [调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) |  | 数组、双指针、排序 | 简单 |
-| 0443 | [压缩字符串](https://leetcode.cn/problems/string-compression/) |  | 双指针、字符串 | 中等 |
+| 0443 | [压缩字符串](https://leetcode.cn/problems/string-compression/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0443)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0443.md) | 双指针、字符串 | 中等 |
 
 #### 快慢指针题目
 
@@ -202,6 +201,7 @@
 | 0719 | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0719)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0719.md) | 数组、双指针、二分查找、排序 | 困难 |
 | 0334 | [递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/) |  | 贪心、数组 | 中等 |
 | 0978 | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) |  | 数组、动态规划、滑动窗口 | 中等 |
+| 剑指 Offer 21 | [调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/Offer-21)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/Offer-21.md) | 数组、双指针、排序 | 简单 |
 
 #### 分离双指针题目
 
