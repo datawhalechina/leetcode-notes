@@ -149,19 +149,19 @@
 
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
-| 0875 | [爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/) |  | 数组、二分查找 | 中等 |
-| 0410 | [分割数组的最大值](https://leetcode.cn/problems/split-array-largest-sum/) |  | 贪心、数组、二分查找、动态规划、前缀和 | 困难 |
+| 0875 | [爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0875)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0875.md) | 数组、二分查找 | 中等 |
+| 0410 | [分割数组的最大值](https://leetcode.cn/problems/split-array-largest-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0410)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0410.md) | 贪心、数组、二分查找、动态规划、前缀和 | 困难 |
 | 0209 | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0209)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0209.md) | 数组、二分查找、前缀和、滑动窗口 | 中等 |
-| 0658 | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/) |  | 数组、双指针、二分查找、排序、滑动窗口、堆（优先队列） | 中等 |
-| 0270 | [最接近的二叉搜索树值](https://leetcode.cn/problems/closest-binary-search-tree-value/) |  | 树、深度优先搜索、二叉搜索树、二分查找、二叉树 | 简单 |
-| 0702 | [搜索长度未知的有序数组](https://leetcode.cn/problems/search-in-a-sorted-array-of-unknown-size/) |  | 数组、二分查找、交互 | 中等 |
+| 0658 | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0658)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0658.md) | 数组、双指针、二分查找、排序、滑动窗口、堆（优先队列） | 中等 |
+| 0270 | [最接近的二叉搜索树值](https://leetcode.cn/problems/closest-binary-search-tree-value/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0270)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0270.md) | 树、深度优先搜索、二叉搜索树、二分查找、二叉树 | 简单 |
+| 0702 | [搜索长度未知的有序数组](https://leetcode.cn/problems/search-in-a-sorted-array-of-unknown-size/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0702)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0702.md) | 数组、二分查找、交互 | 中等 |
 | 0349 | [两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0349)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0349.md) | 数组、哈希表、双指针、二分查找、排序 | 简单 |
 | 0350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0350)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0350.md) | 数组、哈希表、双指针、二分查找、排序 | 简单 |
 | 0287 | [寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0287)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0287.md) | 位运算、数组、双指针、二分查找 | 中等 |
-| 0719 | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) |  | 数组、双指针、二分查找、排序 | 困难 |
-| 0259 | [较小的三数之和](https://leetcode.cn/problems/3sum-smaller/) |  | 数组、双指针、二分查找、排序 | 中等 |
+| 0719 | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0719)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0719.md) | 数组、双指针、二分查找、排序 | 困难 |
+| 0259 | [较小的三数之和](https://leetcode.cn/problems/3sum-smaller/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0259)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0259.md) | 数组、双指针、二分查找、排序 | 中等 |
 | 1011 | [在 D 天内送达包裹的能力](https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1011)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1011.md) | 数组、二分查找 | 中等 |
-| 1482 | [制作 m 束花所需的最少天数](https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/) |  | 数组、二分查找 | 中等 |
+| 1482 | [制作 m 束花所需的最少天数](https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1482)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1482.md) | 数组、二分查找 | 中等 |
 
 ### 01.05.04 双指针题目
 
@@ -178,8 +178,8 @@
 | 0015 | [三数之和](https://leetcode.cn/problems/3sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0015)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0015.md) | 数组、双指针、排序 | 中等 |
 | 0016 | [最接近的三数之和](https://leetcode.cn/problems/3sum-closest/) |  | 数组、双指针、排序 | 中等 |
 | 0018 | [四数之和](https://leetcode.cn/problems/4sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0018)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0018.md) | 数组、双指针、排序 | 中等 |
-| 0259 | [较小的三数之和](https://leetcode.cn/problems/3sum-smaller/) |  | 数组、双指针、二分查找、排序 | 中等 |
-| 0658 | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/) |  | 数组、双指针、二分查找、排序、滑动窗口、堆（优先队列） | 中等 |
+| 0259 | [较小的三数之和](https://leetcode.cn/problems/3sum-smaller/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0259)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0259.md) | 数组、双指针、二分查找、排序 | 中等 |
+| 0658 | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0658)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0658.md) | 数组、双指针、二分查找、排序、滑动窗口、堆（优先队列） | 中等 |
 | 1099 | [小于 K 的两数之和](https://leetcode.cn/problems/two-sum-less-than-k/) |  | 数组、双指针、二分查找、排序 | 简单 |
 | 0075 | [颜色分类](https://leetcode.cn/problems/sort-colors/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0075)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0075.md) | 数组、双指针、排序 | 中等 |
 | 0360 | [有序转化数组](https://leetcode.cn/problems/sort-transformed-array/) |  | 数组、数学、双指针、排序 | 中等 |
@@ -199,7 +199,7 @@
 | 0283 | [移动零](https://leetcode.cn/problems/move-zeroes/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0283)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0283.md) | 数组、双指针 | 简单 |
 | 0845 | [数组中的最长山脉](https://leetcode.cn/problems/longest-mountain-in-array/) |  | 数组、双指针、动态规划、枚举 | 中等 |
 | 0088 | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0088)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0088.md) | 数组、双指针、排序 | 简单 |
-| 0719 | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) |  | 数组、双指针、二分查找、排序 | 困难 |
+| 0719 | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0719)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0719.md) | 数组、双指针、二分查找、排序 | 困难 |
 | 0334 | [递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/) |  | 贪心、数组 | 中等 |
 | 0978 | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) |  | 数组、动态规划、滑动窗口 | 中等 |
 
@@ -208,11 +208,11 @@
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
 | 0350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0350)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0350.md) | 数组、哈希表、双指针、二分查找、排序 | 简单 |
-| 0392 | [判断子序列](https://leetcode.cn/problems/is-subsequence/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0392)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0392.md) | 双指针、字符串、动态规划 | 简单 |
 | 0925 | [长按键入](https://leetcode.cn/problems/long-pressed-name/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0925)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0925.md) | 双指针、字符串 | 简单 |
 | 0844 | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) |  | 栈、双指针、字符串、模拟 | 简单 |
 | 1229 | [安排会议日程](https://leetcode.cn/problems/meeting-scheduler/) |  | 数组、双指针、排序 | 中等 |
 | 0415 | [字符串相加](https://leetcode.cn/problems/add-strings/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0415)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0415.md) | 数学、字符串、模拟 | 简单 |
+| 0392 | [判断子序列](https://leetcode.cn/problems/is-subsequence/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0392)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0392.md) | 双指针、字符串、动态规划 | 简单 |
 
 ### 01.05.07 滑动窗口题目
 
@@ -774,7 +774,7 @@
 | 0403 | [青蛙过河](https://leetcode.cn/problems/frog-jump/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0403)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0403.md) | 数组、动态规划 | 困难 |
 | 1478 | [安排邮筒](https://leetcode.cn/problems/allocate-mailboxes/) |  | 数组、数学、动态规划、排序 | 困难 |
 | 1230 | [抛掷硬币](https://leetcode.cn/problems/toss-strange-coins/) |  | 数学、动态规划、概率与统计 | 中等 |
-| 0410 | [分割数组的最大值](https://leetcode.cn/problems/split-array-largest-sum/) |  | 贪心、数组、二分查找、动态规划、前缀和 | 困难 |
+| 0410 | [分割数组的最大值](https://leetcode.cn/problems/split-array-largest-sum/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0410)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0410.md) | 贪心、数组、二分查找、动态规划、前缀和 | 困难 |
 | 1751 | [最多可以参加的会议数目 II](https://leetcode.cn/problems/maximum-number-of-events-that-can-be-attended-ii/) |  | 数组、二分查找、动态规划、排序 | 困难 |
 | 1787 | [使所有区间的异或结果为零](https://leetcode.cn/problems/make-the-xor-of-all-segments-equal-to-zero/) |  | 位运算、数组、动态规划 | 困难 |
 | 0121 | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0121)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0121.md) | 数组、动态规划 | 简单 |

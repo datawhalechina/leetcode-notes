@@ -3,6 +3,10 @@
 - 标签：递归、数学
 - 难度：简单
 
+## 题目链接
+
+- [剑指 Offer 62. 圆圈中最后剩下的数字 - 力扣](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
+
 ## 题目大意
 
 **描述**：$0$、$1$、…、$n - 1$ 这 $n$ 个数字排成一个圆圈，从数字 $0$ 开始，每次从圆圈里删除第 $m$ 个数字。现在给定整数 $n$ 和 $m$。
