@@ -196,11 +196,11 @@
 | 0080 | [删除有序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0080)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0080.md) | 数组、双指针 | 中等 |
 | 0027 | [移除元素](https://leetcode.cn/problems/remove-element/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0027)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0027.md) | 数组、双指针 | 简单 |
 | 0283 | [移动零](https://leetcode.cn/problems/move-zeroes/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0283)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0283.md) | 数组、双指针 | 简单 |
-| 0845 | [数组中的最长山脉](https://leetcode.cn/problems/longest-mountain-in-array/) |  | 数组、双指针、动态规划、枚举 | 中等 |
+| 0845 | [数组中的最长山脉](https://leetcode.cn/problems/longest-mountain-in-array/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0845)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0845.md) | 数组、双指针、动态规划、枚举 | 中等 |
 | 0088 | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0088)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0088.md) | 数组、双指针、排序 | 简单 |
 | 0719 | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0719)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0719.md) | 数组、双指针、二分查找、排序 | 困难 |
-| 0334 | [递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/) |  | 贪心、数组 | 中等 |
-| 0978 | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) |  | 数组、动态规划、滑动窗口 | 中等 |
+| 0334 | [递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0334)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0334.md) | 贪心、数组 | 中等 |
+| 0978 | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0978)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0978.md) | 数组、动态规划、滑动窗口 | 中等 |
 | 剑指 Offer 21 | [调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/Offer-21)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/Offer-21.md) | 数组、双指针、排序 | 简单 |
 
 #### 分离双指针题目
