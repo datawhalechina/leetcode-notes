@@ -209,8 +209,8 @@
 | :------ | :------ | :------ | :------ | :------ |
 | 0350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0350)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0350.md) | 数组、哈希表、双指针、二分查找、排序 | 简单 |
 | 0925 | [长按键入](https://leetcode.cn/problems/long-pressed-name/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0925)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0925.md) | 双指针、字符串 | 简单 |
-| 0844 | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) |  | 栈、双指针、字符串、模拟 | 简单 |
-| 1229 | [安排会议日程](https://leetcode.cn/problems/meeting-scheduler/) |  | 数组、双指针、排序 | 中等 |
+| 0844 | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0844)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0844.md) | 栈、双指针、字符串、模拟 | 简单 |
+| 1229 | [安排会议日程](https://leetcode.cn/problems/meeting-scheduler/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1229)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1229.md) | 数组、双指针、排序 | 中等 |
 | 0415 | [字符串相加](https://leetcode.cn/problems/add-strings/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0415)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0415.md) | 数学、字符串、模拟 | 简单 |
 | 0392 | [判断子序列](https://leetcode.cn/problems/is-subsequence/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0392)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0392.md) | 双指针、字符串、动态规划 | 简单 |
 
@@ -222,11 +222,11 @@
 | :------ | :------ | :------ | :------ | :------ |
 | 1343 | [大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1343)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1343.md) | 数组、滑动窗口 | 中等 |
 | 0643 | [子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0643)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0643.md) | 数组、滑动窗口 | 简单 |
-| 1052 | [爱生气的书店老板](https://leetcode.cn/problems/grumpy-bookstore-owner/) |  | 数组、滑动窗口 | 中等 |
-| 1423 | [可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/) |  | 数组、前缀和、滑动窗口 | 中等 |
-| 1456 | [定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) |  | 字符串、滑动窗口 | 中等 |
-| 0567 | [字符串的排列](https://leetcode.cn/problems/permutation-in-string/) |  | 哈希表、双指针、字符串、滑动窗口 | 中等 |
-| 1100 | [长度为 K 的无重复字符子串](https://leetcode.cn/problems/find-k-length-substrings-with-no-repeated-characters/) |  | 哈希表、字符串、滑动窗口 | 中等 |
+| 1052 | [爱生气的书店老板](https://leetcode.cn/problems/grumpy-bookstore-owner/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1052)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1052.md) | 数组、滑动窗口 | 中等 |
+| 1423 | [可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1423)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1423.md) | 数组、前缀和、滑动窗口 | 中等 |
+| 1456 | [定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1456)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1456.md) | 字符串、滑动窗口 | 中等 |
+| 0567 | [字符串的排列](https://leetcode.cn/problems/permutation-in-string/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0567)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0567.md) | 哈希表、双指针、字符串、滑动窗口 | 中等 |
+| 1100 | [长度为 K 的无重复字符子串](https://leetcode.cn/problems/find-k-length-substrings-with-no-repeated-characters/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1100)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1100.md) | 哈希表、字符串、滑动窗口 | 中等 |
 | 1151 | [最少交换次数来组合所有的 1](https://leetcode.cn/problems/minimum-swaps-to-group-all-1s-together/) |  | 数组、滑动窗口 | 中等 |
 | 1176 | [健身计划评估](https://leetcode.cn/problems/diet-plan-performance/) |  | 数组、滑动窗口 | 简单 |
 | 0438 | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) |  | 哈希表、字符串、滑动窗口 | 中等 |
