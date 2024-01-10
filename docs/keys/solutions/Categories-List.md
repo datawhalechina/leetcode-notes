@@ -251,8 +251,8 @@
 | 0424 | [替换后的最长重复字符](https://leetcode.cn/problems/longest-repeating-character-replacement/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0424)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0424.md) | 哈希表、字符串、滑动窗口 | 中等 |
 | 0003 | [无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0003)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0003.md) | 哈希表、字符串、滑动窗口 | 中等 |
 | 1695 | [删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1695)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1695.md) | 数组、哈希表、滑动窗口 | 中等 |
-| 1208 | [尽可能使字符串相等](https://leetcode.cn/problems/get-equal-substrings-within-budget/) |  | 字符串、二分查找、前缀和、滑动窗口 | 中等 |
-| 1493 | [删掉一个元素以后全为 1 的最长子数组](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/) |  | 数组、动态规划、滑动窗口 | 中等 |
+| 1208 | [尽可能使字符串相等](https://leetcode.cn/problems/get-equal-substrings-within-budget/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1208)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1208.md) | 字符串、二分查找、前缀和、滑动窗口 | 中等 |
+| 1493 | [删掉一个元素以后全为 1 的最长子数组](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1493)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1493.md) | 数组、动态规划、滑动窗口 | 中等 |
 | 0727 | [最小窗口子序列](https://leetcode.cn/problems/minimum-window-subsequence/) |  | 字符串、动态规划、滑动窗口 | 困难 |
 | 0159 | [至多包含两个不同字符的最长子串](https://leetcode.cn/problems/longest-substring-with-at-most-two-distinct-characters/) |  | 哈希表、字符串、滑动窗口 | 中等 |
 | 0340 | [至多包含 K 个不同字符的最长子串](https://leetcode.cn/problems/longest-substring-with-at-most-k-distinct-characters/) |  | 哈希表、字符串、滑动窗口 | 中等 |
