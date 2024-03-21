@@ -21,13 +21,7 @@
 
 - 开源地址：[https://github.com/datawhalechina/leetcode-notes](https://github.com/datawhalechina/leetcode-notes)
 
-![](./images/20231221163215.png)
-
 - 在线阅读：[https://datawhalechina.github.io/leetcode-notes/](https://datawhalechina.github.io/leetcode-notes/)
-
-![](./images/20231221163237.png)
-
-- 作者简介：杨世超，Datawhale 成员，北京航空航天大学研究生 / iOS 开发工程师
 
 ## 4. 使用说明
 
@@ -50,7 +44,7 @@
 
 ## 5. 章节目录
 
-![](./images/202403211118806.png)
+![](./docs/images/202403211118806.png)
 
 ### 01. 算法入门与数组篇（共 14 天）：[网页链接](https://datawhalechina.github.io/leetcode-notes/#/ch01/index.md)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/index.md)
 
