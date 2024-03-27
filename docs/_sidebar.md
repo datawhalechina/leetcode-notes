@@ -124,7 +124,7 @@
             - [03.05.01 并查集（第 13 ~14 天）](ch03/03.05/03.05.01-Union-Find.md)
             - [03.05.02 练习题目（第 13 天）](ch03/03.05/03.05.02-Exercises.md)
             - [03.05.03 练习题目（第 14 天）](ch03/03.05/03.05.03-Exercises.md)
-            - [03.05.04 并查集题目](ch03/03.01/03.01.04-Hash-Table-List.md)
+            - [03.05.04 并查集题目](ch03/03.05/03.05.04-Union-Find-List.md)
     - 第 04 章 基础算法篇：枚举、递归、分治、回溯、贪心、位运算（共 14 天）
         - 04.01 枚举算法（第 01 ~ 02 天）
             - [04.01.01 枚举算法（第 01 ~ 02 天）](ch04/04.01/04.01.01-Enumeration-Algorithm.md)
@@ -253,9 +253,9 @@
             - [01.03.07 习题解析（第 06 天）](keys/ch01-keys/01.03.07-Exercises-Key.md)
             - [01.03.10 习题解析（第 07 天）](keys/ch01-keys/01.03.10-Exercises-Key.md)
             - [01.03.14 习题解析（第 08 天）](keys/ch01-keys/01.03.14-Exercises-Key.md)
-            - [01.04.02 习题解析（第 09 天）](keys/ch01-keys/01.04.02-Exercises-Key.md)
-            - [01.04.03 习题解析（第 10 天）](keys/ch01-keys/01.04.03-Exercises-Key.md)
-            - [01.04.04 习题解析（第 11 天）](keys/ch01-keys/01.04.04-Exercises-Key.md)
+            - [01.04.03 习题解析（第 09 天）](keys/ch01-keys/01.04.03-Exercises-Key.md)
+            - [01.04.04 习题解析（第 10 天）](keys/ch01-keys/01.04.04-Exercises-Key.md)
+            - [01.04.04 习题解析（第 11 天）](keys/ch01-keys/01.04.05-Exercises-Key.md)
             - [01.05.02 习题解析（第 12 天）](keys/ch01-keys/01.05.02-Exercises-Key.md)
             - [01.05.03 习题解析（第 13 天）](keys/ch01-keys/01.05.03-Exercises-Key.md)
             - [01.05.06 习题解析（第 14 天）](keys/ch01-keys/01.05.06-Exercises-Key.md)
