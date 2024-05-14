@@ -22,7 +22,7 @@
 
 - 示例 1：
 
-![](https://pic.leetcode.cn/1694762751-fwHhWX-%E5%89%91%E6%8C%8733%E7%A4%BA%E4%BE%8B1.png)
+![](../images/20201024O993301.png)
 
 ```python
 输入: postorder = [4,9,6,9,8]
@@ -32,7 +32,7 @@
 
 - 示例 2：
 
-![](https://pic.leetcode.cn/1694762510-vVpTic-%E5%89%91%E6%8C%8733.png)
+![](../images/20201024993302.png)
 
 ```python
 输入: postorder = [4,6,5,9,8]
