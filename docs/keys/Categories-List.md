@@ -844,7 +844,7 @@
 | 0322 | [零钱兑换](https://leetcode.cn/problems/coin-change/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0322)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0322.md) | 广度优先搜索、数组、动态规划 | 中等 |
 | 0518 | [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0518)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0518.md) | 数组、动态规划 | 中等 |
 | 0139 | [单词拆分](https://leetcode.cn/problems/word-break/) |  | 字典树、记忆化搜索、数组、哈希表、字符串、动态规划 | 中等 |
-| 0377 | [组合总和 Ⅳ](https://leetcode.cn/problems/combination-sum-iv/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0377)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0377.md) | 数组、动态规划 | 中等 |
+| 0377 | [组合总和 IV](https://leetcode.cn/problems/combination-sum-iv/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0377)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0377.md) | 数组、动态规划 | 中等 |
 | 0638 | [大礼包](https://leetcode.cn/problems/shopping-offers/) |  | 位运算、记忆化搜索、数组、动态规划、回溯、状态压缩 | 中等 |
 | 1449 | [数位成本和为目标值的最大数字](https://leetcode.cn/problems/form-largest-integer-with-digits-that-add-up-to-target/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1449)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1449.md) | 数组、动态规划 | 困难 |
 
