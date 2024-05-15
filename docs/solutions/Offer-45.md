@@ -1,4 +1,4 @@
-# [剑指 Offer 45. 把数组排成最小的数](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)
+# 剑指 Offer 45. 把数组排成最小的数
 
 - 标签：贪心、字符串、排序
 - 难度：中等
