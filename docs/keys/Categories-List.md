@@ -271,8 +271,8 @@
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
 | 0707 | [设计链表](https://leetcode.cn/problems/design-linked-list/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0707)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0707.md) | 设计、链表 | 中等 |
-| 0083 | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) |  | 链表 | 简单 |
-| 0082 | [删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/) |  | 链表、双指针 | 中等 |
+| 0083 | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0083)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0083.md) | 链表 | 简单 |
+| 0082 | [删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0082)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0082.md) | 链表、双指针 | 中等 |
 | 0206 | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0206)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0206.md) | 递归、链表 | 简单 |
 | 0092 | [反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0092)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0092.md) | 链表 | 中等 |
 | 0025 | [K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0025)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0025.md) | 递归、链表 | 困难 |
@@ -302,7 +302,7 @@
 | 0019 | [删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0019)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0019.md) | 链表、双指针 | 中等 |
 | 0876 | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0876)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0876.md) | 链表、双指针 | 简单 |
 | 剑指 Offer 22 | [链表中倒数第k个节点](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) |  | 链表、双指针 | 简单 |
-| 0143 | [重排链表](https://leetcode.cn/problems/reorder-list/) |  | 栈、递归、链表、双指针 | 中等 |
+| 0143 | [重排链表](https://leetcode.cn/problems/reorder-list/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0143)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0143.md) | 栈、递归、链表、双指针 | 中等 |
 | 0002 | [两数相加](https://leetcode.cn/problems/add-two-numbers/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0002)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0002.md) | 递归、链表、数学 | 中等 |
 | 0445 | [两数相加 II](https://leetcode.cn/problems/add-two-numbers-ii/) |  | 栈、链表、数学 | 中等 |
 
@@ -826,7 +826,7 @@
 | 0279 | [完全平方数](https://leetcode.cn/problems/perfect-squares/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0279)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0279.md) | 广度优先搜索、数学、动态规划 | 中等 |
 | 0343 | [整数拆分](https://leetcode.cn/problems/integer-break/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0343)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0343.md) | 数学、动态规划 | 中等 |
 
-### 背包问题题目
+### 05.03.09 背包问题题目
 
 #### 0-1 背包问题
 
@@ -843,7 +843,7 @@
 | 0279 | [完全平方数](https://leetcode.cn/problems/perfect-squares/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0279)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0279.md) | 广度优先搜索、数学、动态规划 | 中等 |
 | 0322 | [零钱兑换](https://leetcode.cn/problems/coin-change/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0322)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0322.md) | 广度优先搜索、数组、动态规划 | 中等 |
 | 0518 | [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0518)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0518.md) | 数组、动态规划 | 中等 |
-| 0139 | [单词拆分](https://leetcode.cn/problems/word-break/) |  | 字典树、记忆化搜索、数组、哈希表、字符串、动态规划 | 中等 |
+| 0139 | [单词拆分](https://leetcode.cn/problems/word-break/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0139)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0139.md) | 字典树、记忆化搜索、数组、哈希表、字符串、动态规划 | 中等 |
 | 0377 | [组合总和 IV](https://leetcode.cn/problems/combination-sum-iv/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0377)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0377.md) | 数组、动态规划 | 中等 |
 | 0638 | [大礼包](https://leetcode.cn/problems/shopping-offers/) |  | 位运算、记忆化搜索、数组、动态规划、回溯、状态压缩 | 中等 |
 | 1449 | [数位成本和为目标值的最大数字](https://leetcode.cn/problems/form-largest-integer-with-digits-that-add-up-to-target/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1449)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1449.md) | 数组、动态规划 | 困难 |
@@ -955,7 +955,7 @@
 | 0509 | [斐波那契数](https://leetcode.cn/problems/fibonacci-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/0509)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/0509.md) | 递归、记忆化搜索、数学、动态规划 | 简单 |
 | 1137 | [第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/solutions/1137)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/solutions/1137.md) | 记忆化搜索、数学、动态规划 | 简单 |
 
-### 数位 DP 题目
+### 05.05.09 数位 DP 题目
 
 | 题号 | 标题 | 题解 | 标签 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
