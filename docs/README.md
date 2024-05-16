@@ -2,13 +2,9 @@
 
 ## 1. 开源初衷
 
-在互联网行业相关的技术面试中，算法和数据结构知识往往是重点考察的内容。众多知名互联网公司喜欢在面试中考察 LeetCode 上的算法题目，通常需要面试者对给定问题进行深入分析并提供解题思路。有时候，面试官还会要求面试者评估相关算法的时间复杂度和空间复杂度。面试官通过检验面试者对常用算法的熟悉程度和实现能力的方式，从而评估面试者解决实际问题的思维能力水平。
+在互联网行业相关的技术面试中，算法和数据结构知识往往是重点考察的内容。众多知名互联网公司喜欢在面试中考察 LeetCode 上的算法题目，通常需要面试者对给定问题进行深入分析并提供解题思路。有时候，面试官还会要求面试者评估相关算法的时间复杂度和空间复杂度。面试官通过检验面试者对常用算法的熟悉程度和实现能力的方式，从而评估面试者解决实际问题的思维能力水平。因此，对于广大面试者而言，无论是面试国内还是国外的知名互联网公司，通过刷 LeetCode 题目，深入理解算法知识，对拿到一个理想公司的优秀 Offer 都是有帮助的。
 
-因此，对于广大面试者而言，无论是面试国内还是国外的知名互联网公司，通过刷 LeetCode 题目，深入理解算法知识，对拿到一个理想公司的优秀 Offer 都是有帮助的。
-
-为了帮助大家，尤其是零基础或者希望全面学习算法与数据结构基础知识的同学，我们开源了 **「LeetCode 算法笔记」** 教程。
-
-该教程以基础的数据结构和算法为起点，系统讲解相关概念和知识点，再针对不同分类的数据结构和算法，从 LeetCode 平台精选出 200 多道经典算法与数据结构题目，进行具体题目的讲解分析。让学习者可以通过「算法基础理论学习」和「编程实战学习」相结合的方式，彻底掌握算法知识。
+为了帮助大家，尤其是零基础或者希望全面学习算法与数据结构基础知识的同学，我们开源了 **「LeetCode 算法笔记」** 教程。该教程以基础的数据结构和算法为起点，系统讲解相关概念和知识点，再针对不同分类的数据结构和算法，从 LeetCode 平台精选出 200 多道经典算法与数据结构题目，进行具体题目的讲解分析。让学习者可以通过「算法基础理论学习」和「编程实战学习」相结合的方式，彻底掌握算法知识。
 
 ## 2. 项目简介
 
@@ -23,13 +19,15 @@
 
 - 在线阅读：[https://datawhalechina.github.io/leetcode-notes/](https://datawhalechina.github.io/leetcode-notes/)
 
+- 下载 PDF：[https://github.com/datawhalechina/leetcode-notes/releases](https://github.com/datawhalechina/leetcode-notes/releases)
+
 ## 4. 使用说明
 
 ### 4.1 章节划分
 
 1. 项目总共 8 个章节，其中第 01 ~ 05 章节为「算法与数据结构知识」，第 06 ~ 07 章节为「100 道高频面试题汇总」，第 08 章节为「所有习题解析」。
-2. 项目中 的第 01 ~ 07 章节，每一章节对应「一个学习周期 / 一期组队学习安排」，对应学习时间为 14 ～ 16 天，每个学习周期 / 每期组队学习对应 42 ～ 50 道经典 LeetCode 题目。
-3. 章节中每一小节对应「一个学习专题 / 一次打卡任务」，对应时间为 1 ～ 5 天。
+2. 项目中 的第 01 ~ 07 章节，每一章节对应「一个学习周期 / 一期组队学习安排」，对应学习时间为 14 ~ 16 天，每个学习周期 / 每期组队学习对应 42 ~ 50 道经典 LeetCode 题目。
+3. 章节中每一小节对应「一个学习专题 / 一次打卡任务」，对应时间为 1 ~ 5 天。
 4. 小节中每天都有对应的「学习内容」和「练习题目（每天 3 道）」。
 5. 每天平均花费时间 1 ~ 3 小时不等，根据个人学习接受能力强弱有所浮动。
 
@@ -37,7 +35,7 @@
 
 1. 推荐先浏览项目主页的项目介绍，然后按顺序阅读 01 ~ 07 章内容。
 2. 从未刷过算法题目的同学，推荐先看下 「01.01.03 LeetCode 入门及攻略（第 01 ~ 02 天）」 相关内容，对应链接为：[网页链接](https://datawhalechina.github.io/leetcode-notes/#/ch01/01.01/01.01.03-LeetCode-Guide.md)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.01/01.01.03-LeetCode-Guide.md)。
-3. 零基础或者想综合学习算法基础知识的同学，推荐按照项目中制定的学习周期进行专题学习。建议先学习 01 ～ 05 章节的算法基础知识。然后再学习 06 ～ 07 章节的面试题目。
+3. 零基础或者想综合学习算法基础知识的同学，推荐按照项目中制定的学习周期进行专题学习。建议先学习 01 ~ 05 章节的算法基础知识。然后再学习 06 ~ 07 章节的面试题目。
 4. 近期有面试需求的同学，推荐直接学习「06. 面试篇（上）（共 16 天）」、「07. 面试篇（下）（共 16 天）」这两期相关内容。
 5. 可在看完每日的学习内容之后，选择每日对应的练习题目进行巩固练习。
 6. 做完每日练习题目之后，如有余力，可通过相关专题下的题目清单进行拓展练习。
@@ -119,15 +117,8 @@
 
 | 章节标题                               | 链接地址                                                     |
 | -------------------------------------- | ------------------------------------------------------------ |
-| 01 章节习题解析 | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch01-keys/index)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch01-keys/index.md) |
-| 02 章节习题解析 | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch02-keys/index)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch02-keys/index.md) |
-| 03 章节习题解析 | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch03-keys/index)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch03-keys/index.md) |
-| 04 章节习题解析 | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch04-keys/index)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch04-keys/index.md) |
-| 05 章节习题解析 | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch05-keys/index)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch05-keys/index.md) |
-| 06 章节习题解析 | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch06-keys/index)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch06-keys/index.md) |
-| 07 章节习题解析 | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/ch07-keys/index)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/ch07-keys/index.md) |
-| LeetCode 题解（字典序排序） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/solutions/Solutions-List)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/solutions/Solutions-List.md) |
-| LeetCode 题解（按分类排序） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/solutions/Categories-List)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/solutions/Categories-List.md) |
+| LeetCode 题解（字典序排序） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/Solutions-List)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/Solutions-List.md) |
+| LeetCode 题解（按分类排序） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/Categories-List)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/Categories-List.md) |
 
 ## 致谢
 
